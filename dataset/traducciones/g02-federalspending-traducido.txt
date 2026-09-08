@@ -1,0 +1,98 @@
+Como usuario de Datos, quiero que se procesen las eliminaciones 12-19-2017.
+Como diseñador de interfaz de usuario, quiero rediseñar la página Recursos, para que coincida con los nuevos estilos de diseño Broker.
+Como diseñador de interfaz de usuario, quiero informar a las agencias sobre las pruebas de usuario, para que sean conscientes de sus contribuciones para hacer de Broker una mejor UX.
+Como diseñador de la interfaz de usuario, quiero pasar a la segunda ronda de ediciones de la página de aterrizaje DABS o FABS, de modo que pueda obtener aprobaciones del liderazgo.
+Como diseñador de la interfaz de usuario, quiero pasar a la segunda ronda de ediciones de Homepage, para que pueda obtener la aprobación del liderazgo.
+Como diseñador de la interfaz de usuario, quiero pasar a la tercera ronda de las ediciones de la página de ayuda, para que pueda obtener aprobaciones del liderazgo.
+Como desarrollador , quiero ser capaz de registrar mejor, para que pueda solucionar problemas con presentaciones y funciones particulares.
+Como desarrollador, quiero añadir las actualizaciones sobre una presentación FABS que se modificarán cuando la publicación Status cambie, de modo que sepa cuándo ha cambiado el estado de la presentación.
+Como ingeniero de DevOps, quiero que New Relic proporcione datos útiles en todas las aplicaciones.
+Como diseñador de la interfaz de usuario, quiero pasar a la segunda ronda de las ediciones de la página de ayuda, para que pueda obtener aprobaciones del liderazgo.
+Como diseñador de la interfaz de usuario, quiero pasar a la segunda ronda de ediciones de Homepage, para que pueda obtener la aprobación del liderazgo.
+Como usuario de Broker, quiero cargar y validar el mensaje de error para tener un texto preciso.
+Como usuario de Broker, quiero que la generación de archivos D1 se sincronice con la carga de datos FPDS, de modo que no tenga que regenerar un archivo si no se ha actualizado ningún dato.
+Como usuario del sitio web, quiero acceder a los archivos FABS publicados, para que pueda ver los nuevos archivos a medida que entran.
+Como propietario, quiero estar seguro de que los gastos de EE.UU. sólo envían registros de subvenciones a mi sistema.
+Como desarrollador, quiero actualizar la tabla de reglas de validación de Broker para tener en cuenta las actualizaciones de reglas en DB-2213.
+Como desarrollador, quiero añadir los datos de la ventana GTAS a la base de datos, de modo que pueda asegurar que el sitio está bloqueado durante el período de envío GTAS.
+Como desarrollador, quiero que las solicitudes de generación de archivos D sean gestionadas y cachéadas, para que las peticiones duplicadas no causen problemas de rendimiento.
+Como usuario, quiero acceder a los archivos publicados por la agencia en bruto de FABS a través de USAspending.
+Como usuario de la Agencia, quiero poder incluir un gran número de flexfields sin impacto en el rendimiento.
+Como usuario de Broker, quiero ayudar a crear maquetas de contenido, de modo que pueda enviar mis datos de manera eficiente.
+Como diseñador de interfaz de usuario, quiero rastrear los problemas que surgen en Tech Thursday, para que sepa qué probar y qué es lo que quiere que se arregle.
+Como propietario, quiero crear un resumen de pruebas de usuario de la UI SME, para que pueda saber qué mejoras de la UI vamos a seguir adelante.
+Como diseñador de la interfaz de usuario, quiero comenzar las pruebas de usuario, de modo que pueda validar las solicitudes de mejora de la interfaz de usuario de los interesados.
+Como diseñador de la interfaz de usuario, quiero programar las pruebas de usuario, para que pueda dar a los evaluadores un aviso previo para asegurar el buy-in.
+Como propietario, quiero diseñar un calendario de la UI SME, para que sepa la línea de tiempo potencial de las mejoras de la UI deseadas.
+Como propietario, quiero diseñar una auditoría de la UI SME, para que sepa el alcance potencial de las mejoras de la UI que se quieren ed.
+Como desarrollador, quiero evitar que los usuarios publiquen las presentaciones de FABS después de ser refrescantes, para que no haya duplicados.
+Como usuario de datos, quiero recibir actualizaciones de los registros de FABS.
+Como usuario de la Agencia, quiero poder incluir un gran número de flexfields sin impacto en el rendimiento.
+Como desarrollador , quiero actualizar el archivo de muestra de FABS para eliminar FundingAgencyCode después de que FABS se actualice para no requerir el encabezado.
+Como usuario de una agencia, quiero asegurarme de que los registros borrados de FSRS no se incluyen en las presentaciones.
+Como usuario del sitio web, quiero ver datos actualizados de asistencia financiera diariamente.
+Como usuario, quiero que el botón de publicación en FABS se desactive después de hacer clic en él mientras las derivaciones están sucediendo, de modo que no puedo hacer clic en él varias veces para la misma presentación.
+Como desarrollador , quiero asegurarme de que los intentos de corregir o eliminar registros inexistentes no creen nuevos datos publicados.
+Como propietario, quiero restablecer el entorno para tomar solo permisos de Staging MAX, de modo que pueda asegurar que los probadores de FABS ya no tengan acceso.
+Como usuario, quiero que los flexfields de mi archivo de envío aparezcan en los archivos de advertencia y error cuando el único error es un elemento que falta.
+Como usuario, quiero tener datos precisos y completos relacionados con PPoPCode y PPOPCongressionalDistrict.
+Como usuario de una agencia, quiero que las reglas de validación de FABS acepten cero y en blanco para los registros de préstamos.
+Como usuario de la Agencia, quiero que FABS se despliegue en la producción, por lo que puedo presentar mis datos de Asistencia Financiera.
+Como desarrollador , quiero aclarar a los usuarios lo que exactamente está desencadenando el código de error CFDA en cada caso.
+Como usuario de una agencia, quiero estar seguro de que los datos procedentes de SAM están completos.
+Como desarrollador , quiero que mis modelos de dominio sean indexados correctamente, para que pueda obtener resultados de validación en una cantidad razonable de tiempo.
+Como usuario de una agencia, quiero que las reglas de validación de FABS acepten cero y en blanco para registros no-préstamos.
+Como miembro del equipo de bróker, quiero hacer algunas actualizaciones a los códigos SQL para mayor claridad.
+Como usuario de una agencia, quiero tener todos los elementos de datos derivados derivados correctamente.
+Como miembro del equipo de bróker, quiero añadir los casos 00**** y 00FORGN PPoPCode a la lógica de derivación.
+Como usuario de datos, quiero ver los nombres de la oficina derivados de los códigos de la oficina, de modo que pueda tener el contexto apropiado para entenderlos.
+Como usuario de bróker, quiero que el cargador histórico de FABS derive campos, de modo que mis códigos de agencia sean correctos en la tabla de asistencia financiera del premio publicado.
+Como miembro del equipo de bróker, quiero asegurar que los recursos Broker, validaciones y páginas P&P se actualicen adecuadamente para el lanzamiento de FABS y DAIMS v1.1.
+Como desarrollador, quiero que los datos cargados desde FABS históricos incluyan las derivaciones de FREC, de modo que pueda tener datos FREC consistentes para USASpending.gov.
+Como usuario, no quiero que las subvenciones de la NASA se muestren como contratos.
+Como usuario, quiero que las validaciones DUNS acepten registros cuyos ActionTypes son B, C o D y el DUNS esté registrado en SAM, aunque haya caducado.
+Como usuario, quiero que las validaciones DUNS acepten registros cuyas ActionDates están antes de la fecha de registro actual en SAM, pero después de la fecha de registro inicial.
+Como miembro del equipo de bróker, quiero derivar FundingAgencyCode, para que la calidad y la integridad de los datos mejoren.
+Como usuario de una agencia, quiero que la longitud máxima permitida para LegalEntityAddressLine3 coincida con Schema v1.1.
+Como usuario de una agencia, quiero usar los encabezados v1.1 del esquema en mi archivo FABS.
+Como usuario de una agencia, quiero mapear la Acción FederalObligación correctamente al Atom Feed.
+Como usuario de Broker, quiero que PPoPZIP+4 funcione igual que las validaciones ZIP de Entidad Legal.
+Como usuario de FABS, quiero vincular el ARCHIVO DE MUESTRAS en el diálogo "Lo que desea enviar" para señalar el archivo correcto, de modo que tenga una referencia precisa para mis envíos de la agencia.
+Como usuario de la Agencia, quiero que los datos del FPDS estén actualizados diariamente.
+Como usuario, quiero acceder a los archivos publicados por la agencia en bruto de FABS a través de USAspending.
+Como desarrollador , quiero determinar cómo las agencias generarán y validarán los archivos D de datos FABS y FPDS.
+Como usuario, quiero generar y validar archivos D de datos FABS y FPDS.
+Como usuario de la Agencia, quiero que el cuadro de información del encabezado muestre la fecha y hora actualizadas, de modo que sepa cuándo se actualizó.
+Como usuario de la Agencia, quiero recibir un error de nivel de archivo más útil cuando subo un archivo con la extensión incorrecta.
+Como probador, quiero tener acceso a las funciones de prueba en entornos distintos de Staging, de modo que pueda probar cualquier característica no Prod en cualquier entorno.
+Como usuario de FABS, quiero enviar errores para representar con precisión los errores de FABS, de modo que sepa por qué mi envío no funcionó.
+Como usuario de FABS, quiero que las URLs de frontend reflejen con más precisión la página a la que estoy accediendo, para que no me confunda.
+Como usuario de la Agencia, quiero todos los datos históricos de Asistencia Financiera cargados para FABS en vivo.
+Como desarrollador , quiero que el cargador histórico de datos FPDS incluya tanto datos históricos extraídos como datos de feed FPDS.
+Como usuario de la Agencia, quiero que se carguen los datos históricos del FPDS.
+Como usuario de la Agencia, quiero ver con precisión quién creó una presentación, de modo que no me confunda con quién actualizó por última vez una presentación.
+Como usuario de una agencia, quiero obtener el archivo F en el formato correcto.
+Como usuario de la Agencia, quiero entender mejor mis errores a nivel de archivo.
+Como desarrollador , quiero proporcionar grupos FABS que funcionen bajo el paradigma FREC.
+Como probador, quiero asegurarme de que FABS está obteniendo campos correctamente a través de un archivo de prueba robusto más un control de seguimiento.
+Como propietario, sólo quiero campos sin relleno, para que pueda justificar el relleno.
+Como usuario de Broker, quiero enviar registros para destinatarios individuales sin recibir un error DUNS.
+Como usuario, quiero más información sobre cuántas filas se publicarán antes de decidir si publicar.
+Como desarrollador, quiero evitar que se publiquen transacciones duplicadas y hacer frente al intervalo de tiempo entre la validación y la decisión de publicación.
+Como usuario de FABS, quiero enviar una citywide como PPoPZIP y pasar validaciones.
+Como usuario de Broker, quiero tener códigos de error actualizados que reflejen con precisión la lógica y proporcionen suficiente información, para que pueda arreglar mi envío.
+Como usuario de una agencia, quiero dejar fuera los últimos 4 dígitos del ZIP sin ningún error, para que pueda completar mis envíos.
+Como usuario de FABS, quiero asegurarme de que los datos históricos incluyen todas las columnas necesarias, para que la información en la base de datos sea correcta.
+Como usuario de datos, quiero acceder a dos campos adicionales de la extracción de datos FPDS.
+Como usuario de FABS, quiero información útil adicional en el panel de envío, de modo que pueda administrar mejor las presentaciones y las solicitudes IG.
+Como usuario de FABS, quiero descargar el archivo cargado de FABS, para que pueda obtener el archivo cargado.
+Como desarrollador quiero acceder rápidamente a los datos de la aplicación Broker, para que pueda investigar los problemas.
+Como desarrollador, quiero determinar la mejor manera de cargar los datos históricos del FPDS, para poder cargar todos los datos del FPDS desde 2007.
+Como usuario de FABS, quiero que el lenguaje en las páginas de FABS sea apropiado para mí, para que no me confunda.
+Como usuario de FABS, no quiero mensajes de banner DABS y viceversa, por lo que tengo la información adecuada para mi aplicación.
+Como usuario de FABS, quiero tener acceso de sólo lectura a DABS, para poder ver las páginas de DABS sin querer dos conjuntos de permisos.
+Como usuario de FABS, quiero que mis validaciones se ejecuten en un tiempo razonable.
+Como usuario de FABS, quiero ver etiquetas de estado correctas en el panel de presentación, de modo que pueda ver rápidamente mi historial de envío.
+Como usuario de una agencia, quiero saber cuándo comienzan y terminan los períodos de envío, para saber cuándo comienza y termina la presentación.
+Como usuario de una agencia, quiero una landing page para navegar a las páginas de FABS o DABS, de modo que pueda acceder a ambos lados del sitio.
+Como usuario de una agencia, quiero enviar mis datos rodeados de comillas, para que Excel no se despoje de los ceros principales y posteriores.

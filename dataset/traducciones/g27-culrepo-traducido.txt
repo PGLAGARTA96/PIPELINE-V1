@@ -1,0 +1,115 @@
+Como miembro de la facultad, quiero acceder a una colección dentro del repositorio, para poder obtener materiales de investigación.
+Como miembro de la facultad, quiero dirigir a los estudiantes a un elemento dentro del repositorio, para que pueda facilitar mi enseñanza (es decir, desea la capacidad de enlazar con el contenido).
+Como miembro de la facultad de Cornell, quiero subir datos al repositorio y asociarlos con una publicación, de modo que reciba atribución por mis datos así como por mis publicaciones.
+Como mecenas, quiero saber qué informes/datos están saliendo cuando, para que pueda acceder a los últimos informes/datos.
+Como patrón, quiero seleccionar/deseleccionar informes/datos que se enviarán por correo electrónico, posiblemente muchos a la vez, cuando estén disponibles nuevas versiones.
+Como administrador de DB/IR, quiero marcar el informe/dataset para no ser enviado por correo electrónico/visibilidad debido a que se ha descubierto un error.
+Como administrador de DB/IR, quiero gestionar los cambios de nombre de informe/dataset para que los clientes puedan encontrar informes históricos que tengan un nombre diferente del informe actual.
+Como miembro de la facultad de Cornell, quiero ver claramente qué derechos de reutilización tengo a los archivos descubiertos en el repositorio, para que sepa cómo puedo reutilizarlos.
+Como miembro del personal de la biblioteca, quiero aplicar o eliminar un embargo de acceso a un artículo cuando se le pida que lo haga por un autor del artículo.
+Como investigador, quiero estar al día sobre la investigación relacionada con un tema dado en Cornell, incluyendo los de otros departamentos/escuelas, para que mi propia investigación siga siendo relevante e innovadora.
+Como miembro de la facultad, quiero recopilar fácilmente mis publicaciones -- tanto las que están dentro del repositorio como las que no lo están -- en un único punto de acceso en línea, de modo que pueda elevar el perfil de mi trabajo.
+Como crossdeptprojteammember, quiero tener un mejor lugar para recoger y compartir materiales de proyectos, con una gama de opciones de organización/etiquetado y acceso, incluyendo privado (únicamente uso de grupo interno), Universidad y público.
+Como miembro de la facultad de Cornell, quiero subir datos y proporcionar una cita con formato de corte y pasta para las personas que lo utilizan, de modo que reciba la atribución adecuada para mi trabajo.
+Como patrón, quiero ver/cargar contenido en múltiples formatos, incluyendo formatos antiguos como Lotus Works.
+Como miembro de la facultad de Cornell, quiero buscar en el repositorio y navegar a través de su contenido en mi teléfono, para que pueda comprobar las cosas sobre la marcha.
+Como miembro de la facultad de Cornell, quiero iniciar sesión remotamente en el repositorio usando Shibboleth, de modo que pueda obtener acceso remoto a contenido de Cornell solo en el campus.
+Como miembro de la facultad de Cornell, quiero tener cierto control sobre cómo los artículos dentro de mi colección se clasifican en las listas de contenidos de la colección, para que pueda controlar cómo se presenta mi trabajo.
+Como administrador, quiero ser capaz de utilizar sistemas como Elementos Simpléticos e Insight de Actividad para rastrear adecuadamente la salida académica de la facultad en los repositorios, de modo que pueda facilitar las decisiones del personal.
+Como miembro del personal de la biblioteca, quiero acceder a estadísticas y análisis de uso útiles y completos, incluida la altmetría, en el repositorio, la colección, el autor y el nivel de elementos, de modo que pueda evaluar los resultados de este servicio.
+Como administrador, quiero ver estadísticas de seguimiento integrales que se pueden presentar a la facultad de una manera digestible, para que pueda aumentar el buy-in por contribuir con su trabajo.
+Como miembro de la facultad de Cornell, quiero que me notifiquen si alguien descarga alguno de mis artículos o archivos, para que pueda seguir el uso y ver lo que otros están más interesados en leer.
+Como administrador de DB/IR, quiero ver la lista de suscriptores para el informe especificado en orden de investigación falta quejas informe.
+Como administrador, quiero difundir las obras antes mencionadas en un espacio digital fuertemente marcado, para que pueda asegurarme de que mi escuela esté acreditada por el trabajo.
+Como miembro de la facultad, quiero subir mi trabajo académico al repositorio, para que pueda tener una URL persistente que pueda ser utilizada para mi página web personal y CV.
+Como miembro del personal de la biblioteca, quiero crear colecciones que destaquen materiales raros, de archivo o en peligro de extinción, de modo que pueda preservar y proporcionar acceso a este material.
+Como Administradora de Extensión, quiero tener flujos de trabajo fáciles, bien documentados y soportados que se puedan transmitir fácilmente a otros cuando se retiren, para que se pueda mantener la continuidad.
+Como miembro de la facultad, quiero mantener la versión de folletos de extensión, preguntas frecuentes, etc., de modo que sólo los más actuales son utilizados/adaptados por otros educadores de CCE en su trabajo.
+Como miembro de la facultad de Cornell, quiero subir un archivo de datos y poner una licencia CC-By o CC0 en él, para que mis deseos de licencia se indican claramente.
+Como miembro del personal de la biblioteca, quiero ser capaz de decir a los investigadores que estoy ayudando con los DMPs que Cornell tiene un sistema de repositorio que puedo utilizar para archivar y compartir los resultados de su investigación, de modo que pueda satisfacer fácilmente las necesidades de los donantes DMP requisitos.
+Como miembro de la facultad de Cornell, quiero crear una colección para mis documentos, o los documentos de mi organización, y aplicar alguna marca distintiva a esa colección, para que pueda promover mi trabajo, o el de mi organización.
+Como miembro de la facultad de Cornell, quiero encontrar fácilmente todos los elementos en el repositorio que he creado, buscando en mi nombre (autoridad del nombre y/o problema de identificación), porque mantengo mis publicaciones en el repositorio actualizadas y señala a la gente el repositorio del diezmo.
+Como miembro de la facultad de Cornell, quiero ver elementos que he depositado en el repositorio aparecen en lo alto de los resultados de búsqueda de Google, porque ese es mi boleto al estrellato.
+Como miembro del equipo de soporte del repositorio, quiero alias (o mapear) un elemento de una colección a otra (por lo que el elemento parecerá pertenecer a ambas colecciones), porque el propietario de la colección se lo ha pedido.
+Como investigador, quiero descubrir elementos en el repositorio a través del sistema de descubrimiento de la biblioteca y Google, para que pueda facilitar mi fácil uso del contenido.
+Como investigador, quiero ver metadatos descriptivos para el ítem, ya sea que llegue al ítem a través del repositorio o directamente al PDF, para que pueda identificar correctamente la fuente del contenido.
+Como investigador, quiero contactar con el autor de una obra que me interesa, para poder aprender más sobre mi investigación.
+Como investigador, quiero recibir actualizaciones cuando se publican nuevas obras en una colección dada o por un autor dado, para que pueda descubrir más de su trabajo.
+Como investigador, quiero buscar dentro de un repositorio o colección de una manera eficaz, incluyendo la búsqueda dentro de subconjuntos de una colección dada, para que pueda facilitar mi uso de la colección.
+Como investigador académico, quiero encontrar las obras de un autor en particular en un lugar fácilmente clasificable, de modo que pueda ver la evolución de su beca con el tiempo.
+Como investigador académico, quiero el trabajo de tesis de un juez influyente o pensador legal para obtener una visión de cómo comenzó su beca inicial.
+Como patrón, quiero buscar un informe/dataset con palabras clave o un título parcial o completo para localizar el informe/dataset necesario.
+Como mecenas, quiero buscar contenido por autor o área de asunto para localizar los recursos necesarios.
+Como administrador de DB/IR, quiero gestionar clasificaciones de temas para facilitar la navegación y búsqueda de clientes.
+Como administrador de DB/IR, quiero administrar grupos de relaciones personalizables en apoyo de la opción Patron.
+Como miembro de la facultad de Cornell, quiero buscar las disertaciones en el repositorio para el que he sido miembro del comité de tesis, para encontrar rápidamente el trabajo de un antiguo estudiante.
+Como miembro del personal de la biblioteca, quiero hacer que los elementos digitales mantenidos en sistema de búsqueda externo de confianza dentro de nuestro sistema, para que pueda proporcionar un acceso sin problemas a colecciones dispares.
+Como investigador, quiero tener información que me ayude a identificar a otros profesores con los que pueda colaborar.
+Como usuario externo, quiero encontrar y acceder fácilmente a materiales de investigación y educación de la facultad de Cornell relacionados con un tema en particular, que puedo utilizar para desarrollar una programación basada en investigación/evidencia, propuestas de subvenciones, políticas comunitarias o prácticas empresariales más fuertes.
+Como estudiante, quiero aprender quién en Cornell tiene o está dedicado a la investigación relacionada con un tema en particular, para que pueda decidir si me gustaría seguir estudios / investigación en Cornell.
+Como estudiante, quiero aprender quién en Cornell tiene o está involucrado en la investigación relacionada con un tema en particular, para que pueda encontrar un asesor apropiado, elegir qué cursos para inscribirse, e identificar oportunidades de trabajo/internación.
+Como miembro docente, quiero identificar una investigación oportuna y relevante adecuada para mi currículo, y ser notificado de nuevas investigaciones/contenidos.
+Como patrón, quiero ver múltiples versiones de un informe/dataset para obtener información oportuna e histórica.
+Como miembro de la facultad, quiero subir mi trabajo académico al repositorio, para que pueda llegar a un público no académico, expandir mi influencia dentro de mi comunidad académica, y usarlo para la enseñanza.
+Como miembro del personal de la biblioteca, quiero subir material al repositorio en nombre del autor, para poder cumplir con una obligación de servicio.
+Como miembro del personal de la biblioteca, quiero crear metadatos para elementos dentro del repositorio que incluyen título de documento, descripción, autor, tipo de documento, estado, ubicaciones de archivos, bandera suscrita, área de asunto, frecuencia de publicación y palabras clave para la búsqueda.
+Como miembro del personal de la biblioteca, quiero subir grandes lotes de elementos simultáneamente, incluyendo metadatos descriptivos, para poder ofrecer un servicio eficiente a los autores.
+Como miembro del personal de la biblioteca, quiero subir un elemento al repositorio que sólo se hará visible después de que haya expirado un período de embargo específico, de modo que pueda cumplir con los requisitos de autor o editor.
+Como miembro del personal de la biblioteca, quiero incluir archivos complementarios como conjuntos de datos, presentaciones de diapositivas, etc. –con DOIs para cada uno, según sea necesario– al subir un trabajo determinado, de modo que pueda proporcionar una imagen robusta del trabajo en cuestión.
+Como miembro del personal de la biblioteca, quiero ofrecer los medios de transmisión desde el repositorio, de modo que pueda entregar dicho contenido de la manera esperada y garantizar el acceso continuo a dicho contenido.
+Como administrador, quiero tener una plataforma que pueda soportar una variedad de archivos multimedia y formatos basados en texto, para que la producción intelectual de la escuela pueda ser mostrada y preservada de una manera más completa.
+Como miembro del personal de la biblioteca, quiero poder asignar un elemento a más de una colección.
+Como miembro del personal de la biblioteca, quiero ser capaz de añadir campos de metadatos personalizados para depósitos que hago en nombre de los investigadores para permitir una mejor capacidad de búsqueda.
+Como administrador de DB/IR, quiero subir el informe/datos revisados debido a un error en el informe/documento.
+Como administrador de DB/IR, quiero subir una nueva versión del informe/dataset mientras retengo versiones anteriores para uso de los clientes.
+Como administrador de DB/IR, quiero que el sistema reconozca/categorice el tipo de documento (por ejemplo, informe histórico todavía publicado, informe histórico caducado, conjunto de datos de un solo tema, conjunto de datos de un tema amplio, informe con subtema, archivo informático), para que el informe/dataset se procese y muestre correctamente.
+Como miembro de la facultad de Cornell, quiero asignar fácilmente una licencia CC a los archivos que estoy depositando, para que los usuarios sepan cómo se pueden utilizar los materiales.
+Como miembro del equipo de soporte de repositorio, quiero exportar un conjunto de registros y archivos asociados, manipular este conjunto de datos y recargar en el sistema, porque soy consciente de un error uniforme en una colección.
+Como miembro de la facultad de Cornell, quiero asociar a un investigador ID u ORCID con una sumisión, para que no haya ambigüedad entre mi trabajo y alguien con el mismo nombre.
+Como estudiante, quiero subir al repositorio los datos que están asociados con mi disertación embargada para cumplir con los requisitos de un DMP que presenté con mi NSF DDIG.
+Como miembro del personal de la biblioteca, quiero tener campos de metadatos personalizables, para que cada proyecto se describa de la manera más precisa posible.
+Como miembro de la facultad, quiero asociar archivos con mis obras académicas de tal manera que alguien que accede a este último también recibe acceso a la primera, para que pueda entregar la imagen más completa de mi investigación.
+Como miembro del personal de la biblioteca, quiero usar contenido y metadatos del repositorio en otros sistemas y/o páginas web con facilidad, para poder entregar dicho contenido de la manera que mejor se adapte a la audiencia u ocasión.
+Como Administrador de Extensión, quiero hacer que los recursos que fueron desarrollados para proyectos específicos y áreas geográficas estén disponibles para otros profesores y educadores en Nueva York.
+Como Administrador de Extensión o Administrador de Contenidos de Personal, quiero recibir recordatorios periódicos de IR, incluyendo cuando algo necesita atención (incluyendo los próximos pasos de ingestión/aprobación), o algo que podría necesitar pasar de una colección de conocimientos actuales a Histórica.
+Como investigador, quiero promover/compartir mi trabajo a través de mapas interactivos, para poder mostrar gráficamente el alcance y la extensión de mi trabajo.
+Como Extension Educator, quiero tener un lugar para almacenar una variedad de documentos, presentaciones y conjuntos de datos que he creado, que no requiere un paso adicional en la puesta a disposición en mi propio sitio del Condado/Región/Proyecto (es decir, una lista o directorio de materiales que se actualiza automáticamente cuando se coloca en un archivo/repositorio central).
+Como patrón, quiero conocer otros informes/conjuntos de datos que estén relacionados (por ejemplo, véase también) con el informe/conjunto de datos que se esté viendo para el propósito de encontrar otra información relacionada.
+Como patrón, quiero conocer los nombres anteriores y el rango de fechas de publicación (primera versión-última versión) de los informes/datos, para poder saber qué versiones históricas están disponibles y qué tan actual es la versión más reciente.
+Como cliente, quiero crear una cuenta personal para solicitar una notificación por correo electrónico cuando esté disponible la nueva versión del informe/dataset.
+Como patrón, quiero descargar el calendario de presentación de informes/dataset para cargarlo en su propio calendario.
+Como agente de descubrimiento de bibliotecas, quiero recoger metadatos útiles del repositorio a través de la OAI, y seguir haciéndolo gradualmente, de modo que pueda hacer que las publicaciones de Cornell se puedan descubrir en mi repositorio.
+Como miembro del personal de la biblioteca, quiero corregir rápidamente errores en metadatos cargados, e incluso documentos subidos, dejando un registro de mis revisiones (y posiblemente las razones detrás de ellos), para que pueda presentar versiones correctas de contenido y localizar puntos de error.
+Como miembro del personal de la biblioteca, quiero recibir una respuesta rápida y una resolución razonable a los problemas de soporte técnico, para que el servicio pueda proceder con una interrupción mínima.
+Como miembro de la facultad de Cornell, quiero compartir en los archivos de repositorio que son más grandes que 1 GB de una manera que todavía permite a los usuarios para descargarlos si quiero utilizarlos, para que pueda cumplir con los requisitos de los financiadores.
+Como administrador de DB/IR, quiero iniciar sesión en una cuenta personal con acceso a funciones autorizadas.
+Como administrador de DB/IR, quiero tener una cuenta personal con la capacidad de cambiar contraseñas para hacerlos más seguros o para recuperar las olvidadas.
+Como administrador de DB/IR, quiero configurar o eliminar cuentas para otros administradores con varios niveles de permiso.
+Como administrador de DB/IR, quiero ver una lista de todos los administradores para facilitar la administración de cuentas.
+Como administrador de DB/IR, quiero tener características de búsqueda y seguimiento robustas para las cuentas de clientes existentes y recién creadas.
+Como administrador de DB/IR, quiero despublicar un informe o conjunto de datos si así lo solicita la agencia USDA.
+Como administrador de DB/IR, quiero añadir futuras fechas de publicación de informes/datos al calendario para FYI cliente.
+Como miembro de la facultad, quiero recomendar que se construya una colección digital en el repositorio, para que pueda ayudar en mi investigación.
+Como administrador de DB/IR, quiero buscar cuentas de administrador usando correo electrónico completo/parcial o nombre.
+Como administrador de DB/IR, quiero administrar cuentas de clientes con el propósito de cerrar cuentas, ver suscripciones, cambiar suscripciones, restablecer contraseñas, cambiar la dirección de correo electrónico, etc.
+Como miembro del personal de la biblioteca, quiero crear campos de metadatos personalizados para ciertas colecciones, y permitir la búsqueda de esos campos, de modo que pueda reflejar y entregar contenido diverso.
+Como miembro del equipo de soporte de repositorio, quiero mover una colección, para poder cumplir con la petición del propietario de la colección.
+Como miembro del equipo de soporte de repositorio, quiero cambiar el nombre de una colección, para poder cumplir con la petición del propietario de la colección.
+Como administrador de activos, quiero estar seguro de que la copia digital que deposito se almacena redundantemente, de modo que cuando una copia sufre destrucción o cambios no deseados, todavía tengo otras buenas copias para restaurar.
+Como gestor de activos, quiero estar seguro de que las amenazas a las copias en un repositorio no se incurren automáticamente en las copias redundantes.
+Como administrador de activos, quiero estar seguro de que las copias redundantes se monitorean continuamente para los cambios no deseados, y que si / cuando se producen cambios, hay un mecanismo por el que puedo determinar el objeto original y restaurarlo a todas las copias.
+Como administrador de activos, quiero estar seguro de que los activos pueden ser sacados del repositorio, y que los activos sacados son los mismos que los que se ponen en.
+Como gestor de activos, quiero saber cuál es el valor intelectual del activo para la entidad en el momento del depósito, de modo que obtenga orientación en la evaluación del mismo para el valor actual para la entidad.
+Como gestor de activos, quiero tener un mecanismo para obtener una lista o entendimiento de todos los activos que han sido depositados, y su estado actual.
+Como gestor de activos, quiero estar seguro de que la financiación y la dotación de personal de la IR tienen un compromiso con la longevidad del repositorio a través de planes publicados y/o cláusulas contractuales explícitas.
+Como parte interesada, quiero que los archivos se describan adecuadamente, para que pueda renderizarlos con éxito en mi entorno operativo contemporáneo.
+Como miembro del personal de la biblioteca, quiero preservar tanto el contenido como los metadatos dentro del repositorio de una manera robusta, para poder proporcionar un acceso estable y a largo plazo a este material.
+Como curador de datos, quiero subir una nueva versión de un elemento que ha cambiado, mientras que todavía permite que se acceda a versiones antiguas.
+Como miembro del personal de la biblioteca, quiero preservar la beca de la escuela de derecho mediante el uso de enlaces sostenibles que no sucumbirán a la podredumbre de los enlaces, de modo que pueda crear un archivo digital permanente para la beca de mi institución.
+Como miembro del personal de la biblioteca, quiero crear una colección, a veces con campos de metadatos personalizados, para poder alojar material digital para una distribución más amplia.
+Como miembro del personal de la biblioteca, quiero rastrear la lista de revisores para determinar quién subió un elemento al repositorio, de modo que pueda confirmar que se siguieron los procedimientos adecuados.
+Como administrador de activos, quiero estar seguro de que hay un plan formal para la disposición de activos si la IR debe cesar.
+Como gestor de activos, quiero tener un mecanismo para pasar la propiedad/gestión de los activos a un sucesor.
+Como mecenas, quiero enviar un correo electrónico al proveedor del sistema para reportar problemas y hacer preguntas.
+Como curador de datos, quiero tener un mecanismo para permitir la programación de registros de artículos que no necesitan ser almacenados indefinidamente.
+Como curador de datos, quiero subir una nueva versión de un elemento que ha cambiado, mientras que todavía permite que se acceda a versiones antiguas.

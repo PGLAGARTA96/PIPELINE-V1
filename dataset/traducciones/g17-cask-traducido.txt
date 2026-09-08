@@ -1,0 +1,64 @@
+Como desarrollador de aplicaciones, quiero incluir el código de un tipo de conjunto de datos en mi artefacto de aplicación y crear un conjunto de datos de ese tipo al implementar la aplicación.
+Como desarrollador de aplicaciones, quiero implementar una nueva versión de un tipo de dataset como parte de la implementación de una nueva versión de la aplicación que la incluya y espero que todas las instancias de dataset de ese tipo que se crearon como parte de la implementación de aplicaciones comiencen a usar el nuevo código.
+Como desarrollador de aplicaciones, quiero implementar una nueva versión de un tipo de dataset como parte de un artefacto de aplicación, sin afectar a otros conjuntos de datos de este tipo.
+Como desarrollador de aplicaciones, quiero explorar una instancia de conjunto de datos de un tipo que se implementó como parte de una aplicación.
+Como desarrollador de aplicaciones, quiero asegurarme de que cuando implemento un artefacto sin crear una aplicación esto no creará ningún tipo de dataset o instancias.
+Como desarrollador de aplicaciones, quiero compartir un tipo de conjunto de datos entre múltiples aplicaciones que incluyen el código del tipo de conjunto de datos en sus artefactos.
+Como desarrollador de aplicaciones, quiero asegurarme de que cuando implemento una nueva versión de una aplicación que incluye un tipo de conjunto de datos compartido, todas las instancias de conjunto de datos creadas por esta aplicación comienzan a usar el nuevo código, pero todas las instancias de conjunto de datos creadas por otras aplicaciones permanecen sin cambios.
+Como desarrollador de aplicaciones, quiero asegurarme de que cuando implemento una nueva versión de una aplicación que incluye una versión anterior de un tipo de conjunto de datos implementado por otra aplicación, y espero que las instancias de conjunto de datos creadas por esta aplicación utilicen el código de tipo de conjunto de datos incluido en esta aplicación.
+Como desarrollador de aplicaciones, quiero asegurarme de que cuando implemento una nueva versión de una aplicación que incluye una versión diferente de un tipo de dataset implementado por otra aplicación y esta aplicación comparte una instancia de dataset de este tipo con la otra aplicación, la implementación fallará con un error de conflicto de versiones.
+Como desarrollador de aplicaciones, quiero compartir un tipo de conjunto de datos que previamente había implementado como parte de una aplicación.
+Como desarrollador de dataset, quiero implementar un tipo de dataset independiente de cualquier aplicación y permitir que las aplicaciones creen y utilicen instancias de dataset de ese tipo.
+Como desarrollador de dataset, quiero tener la opción de forzar a las aplicaciones a tener el código de dataset inyectado en tiempo de ejecución.
+Como desarrollador de dataset, quiero tener un arquetipo que me ayude a empaquetar mi tipo de dataset correctamente.
+Como desarrollador de dataset, quiero separar la interfaz de la implementación de un tipo de dataset.
+Como desarrollador de aplicaciones, sólo quiero depender de la interfaz de un tipo de conjunto de datos en mi aplicación y hacer que el sistema inyecte la implementación en tiempo de ejecución.
+Como desarrollador de aplicaciones, quiero escribir pruebas unitarias para una aplicación que depende de la interfaz de un tipo de conjunto de datos.
+Como desarrollador de dataset, quiero asignar versiones explícitas al código de un tipo de dataset.
+Como desarrollador de dataset, quiero implementar una nueva versión de un tipo de dataset sin afectar a las instancias de dataset de ese tipo.
+Como desarrollador de aplicaciones, quiero crear una instancia de dataset con una versión específica de un tipo de dataset.
+Como desarrollador de dataset, quiero explorar una instancia de dataset creada a partir de un tipo de dataset que fue desplegado por sí mismo.
+Como desarrollador de dataset, quiero eliminar versiones obsoletas de un tipo de dataset y espero que esto falle si hay alguna instancia de dataset con esa versión del tipo.
+Como desarrollador de conjuntos de datos, quiero listar todas las instancias de conjuntos de datos que utilizan un tipo de conjunto de datos o una versión específica de un tipo.
+Como científico de datos, quiero ser capaz de crear una instancia de conjunto de datos de un tipo de conjunto de datos existente sin escribir código.
+Como científico de datos, quiero poder actualizar una instancia de dataset a una nueva versión de su código.
+Como usuario de hidratador, quiero crear una tubería que lea o escriba una instancia de dataset existente.
+Como usuario de hidratador, quiero crear una tubería que lea o escriba una nueva instancia de conjunto de datos y quiero crear esa instancia de conjunto de datos como parte de la creación de tuberías.
+Como usuario de hidratador, quiero especificar una versión explícita de los tipos de conjuntos de datos de las instancias de conjuntos de datos creadas por mi tubería y espero que la creación de tuberías falle si esto resulta en una actualización incompatible de una instancia de conjunto de datos existente que se comparte con otras aplicaciones o tuberías.
+Como usuario de hidratadores, quiero explorar los conjuntos de datos creados por mi tubería.
+Como usuario de hidratadores, quiero asegurarme de que todas las instancias de conjuntos de datos creadas por aplicaciones estén disponibles como sumideros y fuentes para tuberías.
+Como desarrollador de aplicaciones, quiero asegurarme de que todas las instancias de dataset creadas por los gasoductos Hydrator sean accesibles a la aplicación.
+Como desarrollador de plugins, quiero incluir el código para un tipo de conjunto de datos en el artefacto plugin, de modo que cuando se crea una tubería usando este plugin se crea una instancia de conjunto de datos de ese tipo y es explorable y disponible para aplicaciones.
+Como desarrollador de plugins, quiero utilizar un tipo de conjunto de datos personalizado que se desplegó de forma independiente o como parte de una aplicación dentro del plugin.
+Como desarrollador de plugins, quiero actualizar el código de un tipo de conjunto de datos utilizado por una instancia de conjunto de datos creada por ese plugin cuando implemento una nueva versión del plugin y actualizo la tubería para utilizar esa versión.
+Como desarrollador de tuberías, quiero actualizar una instancia de dataset a una versión más reciente del código después de que se creó la tubería.
+Como desarrollador de dataset, quiero tener la opción de implementar un paso de actualización para cuando una instancia de dataset se actualice a una nueva versión del tipo dataset.
+Como desarrollador de dataset, quiero tener una forma de rechazar una actualización de una instancia de dataset a una versión más reciente de su tipo si la actualización no es compatible.
+Como desarrollador de dataset, quiero tener la opción de implementar un procedimiento de migración que se puede ejecutar después de una actualización de una instancia de dataset a una nueva versión de su tipo.
+Como desarrollador, quiero tomar un conjunto de datos fuera de línea, para que pueda realizar un proceso de mantenimiento o migración de larga duración.
+Como desarrollador de dataset, quiero implementar operaciones administrativas personalizadas como "comparación" o "reequilibrio" que no son comunes a todos los tipos de dataset.
+Como desarrollador de aplicaciones, quiero realizar operaciones administrativas personalizadas en instancias de dataset desde mi aplicación y el CLI y el REST o la interfaz de usuario.
+Como usuario, quiero averiguar qué propiedades son soportadas por el tipo de conjunto de datos qué valores están permitidos y cuáles son los valores predeterminados al crear una instancia de conjunto de datos.
+Como usuario, quiero especificar el esquema de un conjunto de datos de forma uniforme en todos los tipos de conjuntos de datos.
+Como usuario, quiero especificar el esquema como una cadena JSON.
+Como usuario, quiero especificar el esquema como una cadena de esquema SQL.
+Como usuario, quiero configurar el tiempo para vivir de manera uniforme en todos los tipos de conjuntos de datos.
+Como usuario, quiero ver las propiedades que se utilizaron para configurar una instancia de conjunto de datos.
+Como usuario, quiero saber qué propiedades de un conjunto de datos se pueden actualizar.
+Como usuario, quiero actualizar las propiedades de una instancia de conjunto de datos y espero que esto falle si las nuevas propiedades no son compatibles con un mensaje de error significativo.
+Como usuario, quiero actualizar una sola propiedad de una instancia de dataset sin conocer todas las otras propiedades.
+Como usuario, quiero eliminar una sola propiedad de una instancia de dataset sin conocer todas las otras propiedades.
+Como usuario, quiero activar un proceso de migración para un conjunto de datos si actualizar sus propiedades lo requiere.
+Como usuario, quiero asegurarme de que si falla la reconfiguración de un conjunto de datos, ningún cambio ha tenido efecto, de modo que todos los pasos necesarios para reconfigurar un conjunto de datos se deben hacer como una sola acción atómica.
+Como desarrollador de aplicaciones, quiero asegurarme de que la creación de aplicaciones falla si no se puede crear alguno de sus conjuntos de datos.
+Como desarrollador de aplicaciones, quiero asegurarme de que la redistribución de aplicaciones falla si alguno de sus conjuntos de datos no puede ser reconfigurado.
+Como desarrollador de aplicaciones, quiero tolerar los conjuntos de datos existentes si sus propiedades son diferentes pero compatibles al crear un conjunto de datos como parte de la implementación de aplicaciones.
+Como diseñador de tuberías, quiero obtener un mensaje de error significativo cuando la creación de tuberías falla cuando utilizo un conjunto de datos existente como sumidero o fuente, de modo que sé que el esquema o cualquier otra propiedad del conjunto de datos es incompatible con lo que el gasoducto requiere.
+Como usuario, quiero especificar como parte de la configuración del conjunto de datos si es explorable.
+Como usuario, quiero especificar el esquema de exploración por separado.
+Como usuario, quiero asegurarme de que la creación del conjunto de datos falla si el conjunto de datos no puede ser habilitado para explorar.
+Como usuario, quiero asegurarme de que la reconfiguración del conjunto de datos falla si falla la actualización correspondiente de la tabla explore.
+Como usuario, quiero asegurarme de que una operación de dataset falla si no realiza los cambios necesarios para explorar.
+Como usuario, quiero asegurarme de que una actualización de explore nunca lleve a la pérdida silenciosa de datos o datos disponibles para explorar.
+Como usuario, quiero habilitar explore para un conjunto de datos que no fue configurado para explorar inicialmente.
+Como usuario, quiero deshabilitar explorar para un conjunto de datos que fue configurado para explorar inicialmente.

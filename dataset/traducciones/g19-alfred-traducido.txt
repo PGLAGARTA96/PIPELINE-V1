@@ -1,0 +1,138 @@
+Como persona mayor, quiero saber exactamente qué hace ALFRED con mis datos personales, y compartirlos sólo con mi permiso específico.
+Como OlderPerson, quiero recibir información de ALFRED por medio de la tecnología del habla.
+Como persona mayor, sólo quiero usar botones bien visibles.
+Como una persona mayor, quiero usar ALFRED tanto como sea posible con la interacción del habla.
+Como una persona mayor, siempre quiero mantener el control sobre las actividades de ALFRED.
+Como OlderPerson, quiero ser capaz de gestionar mi privacidad y la configuración de datos.
+Como una persona mayor, quiero tener todo preinstalado, para que no tenga que configurar ALFRED por mí mismo.
+Como una persona mayor, quiero tener un pequeño dispositivo ALFRED que sea portátil y fácil de llevar conmigo.
+Como una persona mayor, quiero tener ALFRED en todas mis computadoras, tabletas y teléfono.
+Como una persona mayor, quiero tener ALFRED en una pulsera o un collar, para que siempre pueda llevarlo conmigo.
+Como una persona mayor, quiero tener instrucciones claras y servicio después de las ventas que me guíen si tengo problemas en el uso de ALFRED.
+Como una persona mayor, quiero tener un dispositivo ALFRED que hable muy lenta y claramente.
+Como una persona mayor, quiero tener un dispositivo ALFRED que sólo reacciona a mí.
+Como persona mayor, quiero tener un dispositivo ALFRED que solo me escuche cuando se lo pida.
+Como una persona mayor, quiero tener una conversación de introducción con ALFRED, para que pueda aprender todo sobre él y él sobre mí.
+Como una persona mayor, quiero comprar ALFRED en una tienda senior con apoyo especial al cliente.
+Como una persona mayor, quiero comprar ALFRED a un precio bajo.
+Como OlderPerson, quiero recibir soporte visual, especialmente cuando miro una lista, un mapa o una agenda.
+Como persona mayor, quiero usar ALFRED para pagar pequeñas cantidades.
+Como persona mayor, quiero tener una muy buena batería para ALFRED para poder mantenerlo todo el día.
+Como persona mayor, quiero tener un dispositivo ALFRED que me informe sobre una batería baja al salir de la casa.
+Como OlderPerson, quiero tener un dispositivo ALFRED que se pueda adaptar fácilmente para usuarios que tengan problemas visuales o de audición.
+Como OlderPerson, quiero tener un dispositivo ALFRED que se pueda adaptar fácilmente para usuarios que tengan problemas visuales.
+Como OlderPerson, quiero tener un dispositivo ALFRED que se pueda adaptar fácilmente para usuarios con problemas de audición.
+Como una persona mayor, quiero tener un dispositivo ALFRED que repita la última frase.
+Como OlderPerson, quiero ser capaz de hacer zoom en el contenido visual.
+Como OlderPerson, quiero tener un dispositivo ALFRED que responda a la demanda cambiante de los usuarios ofreciendo nuevas aplicaciones en la plataforma ALFREDO.
+Como persona mayor, quiero tener un dispositivo ALFRED que me ayude a comunicarme con mis amigos y familiares.
+Como una persona mayor, quiero tener una conversación en video con otros.
+Como médico, quiero tener un videoteléfono.
+Como OlderPerson, quiero tener un dispositivo AFLRED que anime a sus usuarios a una interacción real entre humanos y no sólo con herramientas TIC.
+Como OlderPerson, quiero tener un dispositivo ALFRED que me proporcione información sobre las aplicaciones existentes que corresponda a mis intereses.
+Como OlderPerson, quiero poder personalizar mis preferencias en las diferentes funcionalidades de la solución.
+Como Cuidador Médico, quiero tener una unidad ALFRED simple que se puede ampliar en funciones.
+Como persona mayor, quiero que mis datos se almacenen directamente en el teléfono.
+Como persona mayor, quiero recibir una llamada de despertador de ALFRED por la mañana comprobándome si estoy bien.
+Como una persona mayor, quiero recibir apoyo de día y de noche con recordatorios de agenda.
+Como persona mayor, quiero recibir apoyo para usar el transporte público.
+Como persona mayor, quiero usar ALFRED para la navegación.
+Como OlderPerson, quiero usar ALFRED para paseos turísticos e indicaciones con explicaciones sobre lugares históricos y culturales.
+Como una persona mayor, quiero recibir apoyo para tener un taxi a tiempo.
+Como una persona mayor, quiero usar ALFRED para ver quién está de pie en mi puerta y abrir la puerta.
+Como persona mayor, quiero usar ALFRED para coger el teléfono antes cuando esté en casa.
+Como persona mayor, quiero usar ALFRED para encender/apagar las luces.
+Como persona mayor, quiero usar ALFRED para controlar la calefacción.
+Como persona mayor, quiero usar ALFRED para controlar la televisión y la radio.
+Como una persona mayor, quiero usar ALFRED para ver películas.
+Como una persona mayor, quiero usar ALFRED para escuchar las noticias.
+Como persona mayor, quiero usar ALFRED para contactar con ayuda en caso de emergencia.
+Como médico, quiero usar videollamadas en caso de emergencia.
+Como persona mayor, quiero que ALFRED contacte al cuidador más cercano cuando le pida ayuda urgente a ALFRED.
+Como una persona mayor, quiero recibir un mensaje cuando mi enfermera de atención domiciliaria esté en camino.
+Como persona mayor, quiero recibir un recordatorio de medicina de ALFRED.
+Como una persona mayor, quiero ser capaz de ver si ya he tomado mis píldoras, para que pueda evitar una sobredosis.
+Como médico-cuidador, quiero poder ver si la paciente ha tomado su medicina.
+Como una persona mayor, quiero usar ALFRED para hacer mi compra de comestibles.
+Como persona mayor, quiero usar ALFRED para enviar mensajes.
+Como persona mayor, quiero tener ALFRED para detectar caídas y enviar una emergencia a un contacto específico.
+Como una persona mayor, quiero tener ALFRED para sugerir recetas saludables.
+Como persona mayor, quiero que ALFRED haga preguntas espontáneas, pero sería mejor programarla durante ciertas horas del día.
+Como una persona mayor, quiero tener ALFRED para iniciar preguntas, pero debería estar en los dominios de mi interés como el cine, las exposiciones, la cocina.
+Como persona mayor, quiero ser capaz de llamar a alguien con ALFRED.
+Como OlderPerson, quiero activar el modo de interacción vocal de ALFRED pulsando un botón específico.
+Como persona mayor, quiero usar ALFRED para mantener mi lista de contactos en mi teléfono.
+Como persona mayor, quiero usar ALFRED para administrar mi agenda.
+Como una persona mayor, quiero insertar mis reuniones en ALFRED usando el discurso.
+Como persona mayor, quiero recibir recordatorios sobre mis citas.
+Como persona mayor, quiero recibir un recordatorio de ALFRED sobre todas las cosas que necesito traer conmigo cuando salga de la casa.
+Como Cuidador Social, quiero que ALFRED me recuerde las cosas que necesito llevar a la persona que me importa.
+Como una persona mayor, quiero usar ALFRED para establecer grupos sociales de personas con enfermedades similares.
+Como persona mayor, quiero usar ALFRED para contactar a personas de mi propio círculo.
+Como una persona mayor, quiero usar ALFRED para aprender sobre exposiciones de arte o un museo.
+Como una persona mayor, quiero usar ALFRED para aprender sobre todas las actividades sociales que se organizan en mi vecindario.
+Como OlderPerson, quiero usar ALFRED para recibir una invitación personalizada a un evento social, para que motive más para ir.
+Como una persona mayor, quiero usar ALFRED para navegar a un evento o concierto y ayudarme cuando estoy perdido.
+Como persona mayor, quiero usar ALFRED para ayudarme a navegar a pesar de mis leves deficiencias cognitivas.
+Como una persona mayor, quiero ser capaz de pagar pequeñas cantidades.
+Como persona mayor, quiero usar ALFRED para organizar una reunión con un grupo de amigos en un lugar determinado.
+Como OlderPerson, quiero jugar juegos en línea junto con otros usuarios.
+Como una persona mayor, quiero obtener sugerencias para las clases de deportes en mi barrio.
+Como una persona mayor, quiero tener ALFRED para permitirme tener contactos cara a cara también, para que no solo tenga contactos virtuales a través de ALFRED.
+Como persona mayor, quiero ayudarme a controlar mi peso corporal.
+Como persona mayor, sólo quiero pulsar un botón para llamar a mi cuidador.
+Como persona mayor, quiero decidir quién tiene acceso a mis datos vitales.
+Como médico-cuidador, quiero estar seguro de que el usuario puede decidir quién tiene acceso a sus datos.
+Como una persona mayor, quiero tener los wearables con sensores integrados para lucir bien y no estigmatizar.
+Como persona mayor, quiero ver mis parámetros vitales por teléfono.
+Como una persona mayor, quiero tener la camisa ALFRED para lucir bien.
+Como persona mayor, quiero que la camisa ALFRED no sea estigmatizante.
+Como Cuidador Médico, quiero tener ALFRED para poder determinar la presión arterial del usuario.
+Como Cuidador Médico, quiero tener ALFRED para poder determinar la temperatura corporal del usuario.
+Como Cuidador Médico, quiero tener ALFRED para poder determinar la frecuencia cardíaca del usuario.
+Como Cuidador Médico, quiero tener ALFRED para poder determinar la frecuencia respiratoria del usuario.
+Como Cuidador Médico, quiero tener retroalimentación sobre el nivel de actividad del usuario.
+Como médico, quiero localizar al usuario de ALFRED.
+Como Cuidador Social, quiero tener ALFRED para ser capaz de reconocer el dolor y o el estrés mediante el uso de sensores de conducción de la piel.
+Como Cuidador Social, quiero incluir un contador de pasos en ALFRED.
+Como una persona mayor, quiero tener ALFRED para darme metas y misiones que me animen a hacer nuevas actividades y ejercicios y a salir.
+Como OlderPerson, quiero tener ALFRED para establecer límites en la duración de los juegos a medida que me aburro fácilmente.
+Como una persona mayor, quiero jugar juegos donde pueda usar mi imaginación.
+Como una persona mayor, quiero hacer ejercicios guiados con ALFRED y ALFRED también deben utilizar sensores para capturar datos de salud mientras estoy haciendo ejercicios.
+Como OlderPerson, quiero tener juegos que incluyan mis deportes favoritos.
+Como una persona mayor, quiero recibir sugerencias sobre las clases deportivas locales.
+Como una persona mayor, quiero tener ALFRED para recordarme que mantenga una buena postura corporal.
+Como Cuidador Médico, quiero tener ALFRED para recordarle a la gente que haga ejercicio regularmente.
+Como persona mayor, quiero recibir consejos específicos sobre cómo reducir mis problemas de salud sin medicación.
+Como una persona mayor, quiero tener algunos juegos que me muestren lo buena que es mi memoria y salud física.
+Como una persona mayor, quiero tener entrenamiento para grupos musculares específicos.
+Como Cuidador Médico, quiero tener ALFRED para ofrecer entrenamiento para grupos musculares específicos.
+Como una persona mayor, quiero ser capaz de ver mi rendimiento de entrenamiento.
+Como una persona mayor, quiero tener ALFRED para ayudar a motivarme durante la semana a hacer ejercicio que debería cambiar diariamente, ya que el cambio constante me motiva.
+Como Cuidador Médico, quiero tener ALFRED para proponerme juegos que requieran la combinación de ejercicio mental y físico, como ejercicios de movimiento opuesto de los brazos y las piernas.
+Como una persona mayor, quiero juegos que requieren la combinación de ejercicio mental y físico, como ejercicios de movimiento opuesto de los brazos y las piernas.
+Como Cuidador Médico, quiero controlar si el usuario hace el ejercicio correcto.
+Como Cuidador Médico, quiero tener un resumen regular sobre cuánto ejercicio es realizado por el usuario.
+Como Cuidador Informal, quiero tener un juego que el cuidador podría jugar junto con el usuario, para que pueda monitorear el estado de salud de los usuarios, pero también divertirse un poco.
+Como Cuidador Médico, quiero tener ALFRED para proponer una formación que promueva el pensamiento complejo.
+Como Cuidador Médico, quiero dar retroalimentación correctiva si los ejercicios se realizan mal, demasiado o de cualquier otra manera perjudicial para el usuario.
+Como desarrollador, quiero presentar mi aplicación a tantas personas como sea posible.
+Como desarrollador, quiero que la contabilidad sea tan simple y clara como Posible.
+Como desarrollador, quiero crear y mantener fácilmente mis aplicaciones dentro del mercado.
+Como desarrollador, quiero permitir a los clientes proporcionar comentarios sobre mi aplicación y necesito una manera fácil de ver esta retroalimentación.
+Como desarrollador, quiero tener una manera fácil de gestionar la modalidad de precios de mis aplicaciones.
+Como desarrollador, quiero que la API esté bien definida y bien documentada.
+Como desarrollador, quiero obtener soporte para el desarrollo de aplicaciones.
+Como desarrollador, quiero saber las tarifas que el proveedor del mercado cobra por el uso de la plataforma.
+Como desarrollador, quiero que me notifiquen lo antes posible cuando cambie el estado de cualquiera de mis aplicaciones.
+Como desarrollador, quiero tener información detallada de lo que sucedió cuando mi aplicación se bloquea en el dispositivo del usuario.
+Como desarrollador, quiero presentar mi App de varias maneras.
+Como desarrollador, quiero ser capaz de diseñar mi App por mi cuenta - aunque habrá algunas reglas que tengo que soportar.
+Como desarrollador, quiero tener una manera fácil de definir las preguntas que el usuario puede hacer y realizar.
+Como desarrollador, quiero que mi aplicación tenga acceso a varias características del sistema operativo.
+Como desarrollador, quiero tener los componentes de la API para estar en un alto nivel para que no tenga que lidiar con sus detalles.
+Como desarrollador, quiero tener una manera fácil de leer los datos de los sensores de salud que el usuario está usando.
+Como desarrollador de juegos serios, quiero ser capaz de tomar el control sobre algunas funciones para proporcionar la experiencia de usuario deseada.
+Como desarrollador, quiero proporcionar una manera fácil de administrar la configuración del usuario.
+Como desarrollador, quiero tener la API ALFRED para reducir el trabajo para lograr mis objetivos.
+Como desarrollador, quiero tener la API ALFRED para reducir el trabajo para lograr mis objetivos.

@@ -1,0 +1,53 @@
+Como depositante, quiero depositar y mantener conjuntos de datos a través de una interfaz web simple, para que no tenga que instalar y aprender nuevo software para depositar.
+Como depositante, quiero tener una interfaz de usuario que me sea familiar, por lo que siento que todos los sistemas universitarios están unidos.
+Como depositante, quiero depositar y mantener conjuntos de datos a través de Pure, de modo que tenga una sola ventanilla única para gestionar mis resultados de investigación.
+Como depositante, quiero depositar y mantener conjuntos de datos a través de entornos de investigación virtual y otras herramientas de flujo de trabajo, para poder seguir trabajando con herramientas con las que estoy familiarizado.
+Como depositante, quiero depositar los archivos que tengo, para que no tenga que pasar mucho tiempo encontrando la versión correcta y convirtiendo al formato correcto.
+Como depositante, quiero poner los datos bajo un embargo, para que mi derecho de primer uso esté protegido, y pueda cumplir con mis responsabilidades de confidencialidad.
+Como depositante, quiero aplicar licencias a los conjuntos de datos, para que mis derechos de IP estén protegidos adecuadamente.
+Como depositante, quiero permitir a mis colaboradores acceso privilegiado a los conjuntos de datos, para que sigamos teniendo una relación productiva.
+Como depositante, quiero depositar archivos arbitrariamente grandes, por lo que no estoy limitado en lo que los archivos que puedo y no puedo depositar.
+Como depositante, quiero vincular conjuntos de datos a publicaciones en Opus, para que mis datos y publicaciones se descubran más fácilmente.
+Como depositante, quiero acuñar DOIs para mis datos, para que pueda ser descubierto y citado más fácilmente y las citas pueden ser rastreadas para que pueda recibir crédito.
+Como depositante, quiero que los metadatos se llenen automáticamente de otros sistemas universitarios y se recuerden de depósitos anteriores, para que no tenga que perder el tiempo reingresando la misma información.
+Como depositante, quiero enlazar a los datos almacenados en repositorios externos, de modo que pueda almacenar mis datos en un repositorio apropiado, pero aún así registrarlos en la Universidad y no tengo que depositar mis datos en múltiples lugares.
+Como depositante, quiero especificar una política de eliminación de mis datos, para que no infrinja accidentalmente leyes o acuerdos de colaboración.
+Como depositante, quiero hacer un seguimiento de las descargas de mis datos, para poder demostrar el impacto de mi trabajo.
+Como depositante, quiero hacer un seguimiento de las citas de mis datos, para poder demostrar el impacto de mi trabajo
+Como depositante, quiero tener garantías sobre la integridad de los datos, para poder utilizar mis datos en el futuro y cumplir con los requisitos de los financiadores para el archivo.
+Como depositante, quiero adjuntar metadatos de descubrimiento específicos a los registros, para que los investigadores en mi disciplina puedan encontrar mis datos más fácilmente.
+Como depositante, quiero vincular conjuntos de datos con el proyecto DMP, de modo que se pueda demostrar el cumplimiento del DMP y se vincule todo el flujo de trabajo del proyecto.
+Como depositante, quiero administrar y compartir datos de investigación de live, de modo que todo el flujo de trabajo del proyecto se vincule.
+Como depositante, quiero gestionar múltiples versiones del mismo conjunto de datos, para que los cambios en el conjunto de datos sean transparentes y no comprometan la integridad de la investigación.
+Como depositante, quiero permitir que otros depositen en mi nombre, para que pueda delegar adecuadamente las tareas de gestión de datos de investigación.
+Como reuser de datos, quiero buscar el archivo a través de la web, para que pueda encontrar fácilmente datos relevantes para mis necesidades.
+Como reuser de datos, quiero acceder al sistema en mi lengua materna, para no dejar de utilizar los datos de la Universidad de Bath por barreras lingüísticas.
+Como reuser de datos, quiero examinar e identificar los archivos depositados, de modo que pueda hacer una evaluación preliminar de la utilidad sin descargar todo el conjunto de datos.
+Como reuser de datos, quiero ver una citación de ejemplo para un conjunto de datos, de modo que pueda hacer referencia a él correctamente.
+Como reuser de datos, quiero ver un DOI para un conjunto de datos, de modo que pueda volver a los datos en el futuro y pueda importar el conjunto de datos en mi software de gestión de referencias automáticamente.
+Como reuser de datos, quiero obtener una URL persistente para un conjunto de datos, para que pueda volver a los datos en el futuro.
+Como reuser de datos, quiero buscar el archivo a través de Primo , para que pueda buscar libros, artículos y datos en un solo lugar.
+Como reuser de datos, quiero ver diferentes versiones de un conjunto de datos de un vistazo, para que pueda estar seguro de que estoy utilizando la versión correcta del conjunto de datos.
+Como colaborador externo, quiero tener acceso privilegiado a los datos de los proyectos en los que estoy involucrado, para poder colaborar eficazmente.
+Como coordinador externo, quiero tener garantías de que mis derechos de propiedad intelectual no serán violados, por lo que el riesgo de colaborar con Bath es aceptable para mí.
+Como coordinador externo, quiero acceder a los datos de colaboradores de Bath fuera del campus, para poder colaborar eficazmente.
+Como gerente de un centro de investigación, quiero depositar datos de mi centro directamente en el archivo en nombre de los investigadores, para que ya no se me exija mantener mi propio archivo de datos de instalaciones y los investigadores puedan acceder a sus propios datos según sea necesario.
+Como administrador de archivos de datos de Bath, quiero hacer algunas comprobaciones en conjuntos de datos depositados antes de que se hagan públicos, de modo que se mantenga la calidad consistente de los metadatos, se pueda comprobar el cumplimiento de las políticas y se puedan comprobar los detalles de las licencias.
+Como administrador de archivos de datos de Bath, quiero requerir un conjunto mínimo de metadatos, para que se mantenga la calidad consistente de los metadatos.
+Como administrador de Bath Data Archive, quiero aprobar la eliminación programada de datos, para que los datos que todavía se requieren no sean destruidos.
+Como administrador de archivos de datos de Bath, quiero consultar todo el archivo , para que pueda informar sobre aspectos particulares de las existencias de archivos.
+Como administrador de archivos de datos de Bath, quiero importar datos de Bath desde un centro de datos externo al por mayor, para que las existencias de datos de Bath en archivos externos no se pierdan si cierran.
+Como administrador de Bath Data Archive, quiero alentar y promover el uso de estándares abiertos para el depósito, de modo que los datos sean lo más reutilizables posible.
+Como gestor de información de investigación, quiero integrar el archivo con CRIS, para poder analizar el impacto de la publicación de datos de investigación puedo vincular la financiación a todos los resultados que produce.
+Como gestor de información de investigación, quiero incluir registros de datos externos completos, de modo que el registro de la universidad de las existencias de datos esté completo.
+Como gestor de información de investigación, quiero hacer un seguimiento de los recuentos de citas para conjuntos de datos publicados, de modo que se pueda demostrar el impacto de los conjuntos de datos dentro del mundo académico.
+Como gestor de Research Information, quiero segmentar la vista y descargar estadísticas por países y sectores para que se pueda demostrar el impacto de conjuntos de datos fuera del mundo académico.
+Como gestor de información de investigación, quiero tener conjuntos de datos vinculados a metadatos sobre proyectos, de modo que pueda informar sobre proyectos que depositen conjuntos de datos en relación con los requisitos de los financiadores.
+Como servicio UnivIT, quiero almacenar datos archivados en los sistemas de almacenamiento existentes, de modo que el almacenamiento de datos universitario sea consistente y se pueda mantener y se pueda garantizar la disponibilidad futura de datos.
+Como servicio UnivIT, quiero integrar el archivo con los sistemas universitarios existentes, como LDAP, para que el costo de administración del sistema pueda mantenerse bajo.
+Como un servicio UnivIT, quiero almacenar datos archivados directamente en la tienda de objetos HCP, para que se puedan hacer funciones.
+Como servicio UnivIT, quiero poder exportar todos los datos a un sistema diferente, de modo que no esté vinculado a un sistema que puede no ser el más apropiado en algún momento del futuro.
+Como desarrollador, quiero depositar y mantener conjuntos de datos a través de una API como SWORD2, para que mi servicio pueda interactuar con el archivo.
+Como editora académica, quiero establecer vínculos web persistentes entre mis artículos y conjuntos de datos subyacentes, para que se pueda ver que mis revistas están llenas de investigación robusta y de alta calidad.
+Como organismo de financiación, quiero que se me asegure que los investigadores que fundo tienen sólidos planes de archivo para sus datos, de modo que pueda estar seguro de que financiarlos es una inversión que vale la pena.
+Como organismo de financiación, quiero recoger metadatos sobre los resultados de la investigación que fundo, de modo que pueda analizar la eficacia de la estrategia de financiación y pueda fomentar la fertilización cruzada de los resultados de la investigación.

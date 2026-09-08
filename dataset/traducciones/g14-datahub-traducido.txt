@@ -1,0 +1,67 @@
+Como editor, quiero publicar un conjunto de datos, para que pueda ver sólo el conjunto de datos con unas pocas personas.
+Como editor, quiero publicar un conjunto de datos, para poder compartir el conjunto de datos públicamente con todos.
+Como editor, quiero suscribirme a una cuenta, de modo que pueda publicar mi paquete de datos en el registro y tener una cuenta de editor para publicar mi paquete de datos bajo.
+Como visitante, quiero registrarme a través de github o google, para que no tenga que introducir mucha información y recordar mi contraseña para otro sitio web.
+Como editor, quiero saber qué hacer después de firmar, para que pueda ir rápidamente.
+Como administrador, quiero invitar a alguien a unirse a la plataforma, para que pueda empezar a contribuir o utilizar datos.
+Como editor, quiero importar mi paquete de datos al registro, para que mis datos tengan un hogar permanente en línea al que acceder.
+Como editor, quiero configurar mi cliente, para poder empezar a publicar paquetes de datos.
+Como editor, quiero usar una orden de publicación para actualizar un paquete de datos que ya está en el registro, de modo que aparezca allí.
+Como editor, quiero despublicar un paquete de datos, para que ya no sea visible para nadie.
+Como editor, quiero eliminar permanentemente un paquete de datos, para que ya no ocupe espacio de almacenamiento.
+Como editor, quiero validar los datos que estoy a punto de publicar en el registro, de modo que publique buenos datos y sepa que lo estoy haciendo.
+Como editor, quiero que los datos sean validados cuando los publique, de modo que sepa inmediatamente si he roto mis datos accidentalmente o si tengo errores y pueda tomar medidas para corregirlos.
+Como Consumidor, quiero saber que los datos que estoy descargando es bueno y se puede confiar en, de modo que no tenga que comprobarlo yo mismo o correr en molestos errores más adelante.
+Como editor, quiero publicar un paquete de datos donde sus datos de recursos se almacenan en mis servidores, pero el registro almacena una copia de esos datos, de modo que si mis datos se pierden o se rompen todavía tengo una copia que la gente puede utilizar.
+Como Consumidor, quiero ser capaz de obtener los datos de un paquete de datos, incluso si los datos originales se han movido o eliminado, de modo que todavía puedo utilizar es y mi aplicación o análisis sigue funcionando.
+Como editor, quiero publicar un paquete de datos en la interfaz de usuario, para que esté disponible y publicado.
+Como editor, quiero crear un paquete de datos en la interfaz de usuario para que esté disponible y publicado.
+Como editor, quiero ser capaz de restaurar el paquete de datos borrados a través de cli, de modo que esté de vuelta visible y disponible para ver, descargar.
+Como editor, quiero recuperar los paquetes de datos eliminados, de modo que los paquetes de datos eliminados sean ahora visibles de nuevo.
+Como editor, quiero ser capaz de previsualizar las vistas del paquete de datos actual utilizando cli antes de la publicación, de modo que pueda refinar las declaraciones json de la sección de vista de paquete de datos para lograr un gran resultado.
+Como consumidor, quiero ver un paquete de datos en línea, para que pueda tener una idea de si este es el conjunto de datos que quiero.
+Como editor, quiero mostrar al mundo cómo son mis datos publicados, para que inmediatamente capte la atención del consumidor.
+Como consumidor, quiero ver el paquete de datos, para que pueda tener una idea de si quiero este conjunto de datos o no.
+Como editor, quiero previsualizar un paquete de datos que he preparado, para que pueda comprobar que funciona y compartir los resultados.
+Como Consumidor, quiero ver cuánto se han descargado los datos, para que pueda elegir lo más popular en el caso cuando hay varias alternativas para mi caso de uso.
+Como editor, quiero ver ejemplos reales de paquetes publicados para que pueda entender lo útil y simple que es el formato de paquete de datos y el registro.
+Como consumidor, quiero ver algunos paquetes de datos de ejemplo rápidamente, de modo que tenga una idea de lo que está en este sitio y si es útil mirar más lejos.
+Como Consumidor, quiero buscar paquetes de datos, para que pueda encontrar los que quiero.
+Como consumidor, quiero buscar basado en la descripción del paquete de datos, de modo que pueda encontrar el paquete que se relaciona con algunas palabras clave.
+Como Consumidor, quiero descargar el paquete de datos en un archivo, para que no tenga que descargar descriptor y cada recurso a mano.
+Como desarrollador, quiero usar el paquete de datos como un nodo lib en mi proyecto, para que pueda depender de él usando mi marco de dependencia normal.
+Como consumidor, quiero cargar un paquete de datos de R, para que pueda empezar inmediatamente a jugar con él.
+Como Analista de Datos quiero descargar un paquete de datos, de modo que pueda estudiarlo y bregar con él para inferir nuevos datos o generar nuevas ideas.
+Como Analista de Datos, quiero actualizar el paquete de datos previamente descargado, para que pueda trabajar con los datos más recientes.
+Como Consumidor, quiero descargar los datos de un DataPackage una base de datos SQLite coherente, para que pueda obtener fácilmente en una forma.
+Como Analista de Datos, quiero comparar diferentes versiones de algunos paquetes de datos localmente, de modo que pueda ver los cambios de esquema claramente y ajustar mi código de análisis a la versión de esquema deseada.
+Como desarrollador web, quiero poder instalar varias versiones del mismo paquete de datos por separado, para que todos mis proyectos se puedan desarrollar de forma independiente e implementar localmente.
+Como desarrollador, quiero enumerar todos los requisitos de DataPackages para mi proyecto en el archivo y fijar las versiones exactas de cualquier DataPackage de la que depende mi proyecto, para que el proyecto pueda ser implementado localmente determinísticamente y no se rompa debido a los cambios en el esquema DataPackage.
+Como editor, quiero etiquetar el paquete de datos para crear una instantánea de los datos en el servidor del registro, para que los consumidores puedan referirse a él.
+Como editor, quiero que me adviertan de que existe una etiqueta cuando intento sobrescribirla, de modo que no sobrescribo accidentalmente datos etiquetados estables en los que confían los consumidores.
+Como editor, quiero ser capaz de sobreescribir el paquete de datos previamente etiquetado, de modo que pueda arreglarlo si lo estropeo.
+Como editor, quiero ver mi paquete de datos y mantener varias versiones alrededor de las versiones anteriores, para que no rompa los sistemas de consumo cuando cambio mi paquete de datos.
+Como editor, quiero poder acceder a una versión anterior que he etiquetado, de modo que pueda volver a ella y revisarla.
+Como Consumidor, quiero saber todos los detalles de cómo ha cambiado el esquema del paquete de datos, de modo que pueda ajustar mis scripts para manejarlo.
+Como consumidor, quiero tener una idea de la edad del paquete de datos que he descargado antes, para que pueda decidir si debo actualizar o no.
+Como Consumidor, quiero ver un paquete de datos en una versión en línea en particular, para que pueda presentar/discutir los tiempos de datos particulares de interés con otras personas.
+Como Consumidor, quiero descargar un paquete de datos en una versión en particular, para que sepa que es compatible con mis scripts y sistema.
+Como consumidor, quiero que se me notifiquen los cambios en un paquete que me importa, de modo que pueda comprobar qué ha cambiado y tomar medidas.
+Como consumidor, quiero ver lo activo que es el sitio, para que pueda decidir si debo involucrarme.
+Como consumidor, quiero navegar y encontrar editores, de modo que pueda encontrar editores interesantes y sus paquetes.
+Como Consumidor, quiero ver el perfil de un editor, para que pueda descubrir sus paquetes y tener una idea de lo activos y buenos que son.
+Como consumidor, quiero ver el perfil de un editor, de modo que pueda ver quién está detrás de un paquete en particular o ver qué otros paquetes producen.
+Como Consumidor, quiero buscar entre todos los paquetes de datos de propiedad de un editor, de modo que pueda encontrar fácilmente un paquete de datos entre todos los paquetes de datos de este editor.
+Como propietario, quiero editar mi perfil, para que se actualice con nueva información.
+Como propietario, quiero invitar a un usuario existente, para que el usuario pueda convertirse en miembro de mi editor.
+Como propietario, quiero invitar a alguien que use su correo electrónico para registrarse y convertirse en miembro de mi Editor, de modo que estén autorizados a publicar paquetes de datos bajo mi Editor.
+Como propietario, quiero eliminar a alguien de la membresía en mi editor, para que ya no tenga la capacidad de publicar o modificar mis paquetes de datos.
+Como propietario, quiero ver a toda la gente de mi organización y qué papeles tienen, para que pueda cambiarlos si quiero.
+Como propietario, quiero hacer un usuario un propietario, para que tengan el control total.
+Como propietario, quiero eliminar a un usuario como propietario, para que sea sólo un miembro y ya no tenga el control completo.
+Como administrador, quiero establecer parámetros de configuración clave para la implementación de mi sitio, de modo que pueda cambiar la información clave como el título del sitio.
+Como administrador, quiero ver métricas clave sobre el uso como usuarios, uso de API, descargas, para que sepa cómo van las cosas.
+Como administrador, quiero tener un plan de precios y un sistema de facturación, para poder cobrar a los usuarios y hacer que mi plataforma sea sostenible.
+Como editor, quiero saber si este sitio tiene un plan de precios y cuáles son los precios, para que pueda averiguar lo que esto me costará en el futuro y tener la sensación de que estos chicos son sostenibles.
+Como editor, quiero suscribirme a un determinado plan de precios, de modo que tenga derecho a lo que me permita.
+Como editor, quiero tener paquetes de datos privados, para que pueda compartirlos con mi equipo.

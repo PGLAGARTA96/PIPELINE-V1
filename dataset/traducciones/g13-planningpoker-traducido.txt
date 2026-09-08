@@ -1,0 +1,53 @@
+Como moderador, quiero crear un nuevo juego introduciendo un nombre y una descripción opcional, para que pueda empezar a invitar a los estimadores.
+Como moderador, quiero invitar a los estimadores dándoles una URL donde puedan acceder al juego, para que podamos iniciar el juego.
+Como moderador, quiero comenzar una ronda introduciendo un elemento en un único campo de texto de varias líneas, para que podamos estimarlo.
+Como moderador, quiero ver todos los elementos que tratamos de estimar esta sesión, para que pueda responder a preguntas sobre la historia actual, como "esto incluye __".
+Como moderador, quiero seleccionar un elemento para ser estimado o re-estimado, para que el equipo lo vea y pueda estimarlo.
+Como moderador, quiero añadir un elemento a la lista de elementos a estimar, para que podamos ser flexibles y acomodar situaciones en las que pensamos en una nueva historia mientras jugamos.
+Como moderador, quiero editar un elemento en la lista de elementos a estimar, para que pueda reflejar mejor la comprensión del equipo del elemento.
+Como moderador, quiero eliminar un elemento de la lista de elementos a estimar, para que podamos eliminarlo y no estimarlo.
+Como moderador, quiero mostrar todas las estimaciones inmediatamente, para que pueda decidir mostrar las estimaciones que se han dado aunque no todos los estimadores han dado su estimación.
+Como moderador, quiero aceptar el promedio de todas las estimaciones, para que podamos pasar al siguiente punto cuando estemos de acuerdo.
+Como moderador, quiero que el campo "estimación" se llene automáticamente si todos los estimadores muestran la misma tarjeta, para que pueda aceptarla más rápidamente.
+Como moderador, quiero introducir la estimación acordada, para que podamos pasar al siguiente punto cuando estemos de acuerdo.
+Como moderador, quiero estimar una historia que estimamos antes en la sesión de nuevo, para que podamos dar una nueva estimación si nos sentimos diferentes acerca de la historia después de estimar otras historias relacionadas.
+Como moderador, quiero importar historias de una hoja de cálculo, para que no tenga que copiar y pegar cada historia individual.
+Como moderador, quiero copiar/pegar historias de una hoja de cálculo, para que pueda empezar más rápidamente.
+Como moderador, quiero navegar a través de juegos anteriores, para que pueda encontrar el juego anterior Im buscando.
+Como moderador, quiero ver una transcripción de un juego, para que pueda ver las historias y estimaciones.
+Como moderador, quiero exportar una transcripción de un juego como un archivo HTML, para que pueda guardar las historias y estimaciones locales.
+Como moderador, quiero exportar una transcripción de un juego como un archivo CSV, para que pueda procesar más las historias y estimaciones.
+Como moderador, quiero eliminar un juego, para que las historias y estimaciones para este juego ya no se almacenan.
+Como moderador, quiero crear una cuenta para la aplicación introduciendo mi nombre, dirección de correo electrónico, una contraseña y un nombre de usuario, para que pueda empezar a usar la aplicación.
+Como moderador, quiero iniciar sesión usando mi nombre de cuenta y contraseña, para poder empezar a usar la aplicación.
+Como moderador, quiero cambiar los detalles de mi cuenta, para poder mantener actualizados los detalles de mi cuenta.
+Como moderador, quiero eliminar mi cuenta, para que la información de la cuenta y los juegos ya no se almacenen.
+Como moderador, quiero ver fechas y horarios en mi zona horaria local, para no tener que hacer yo mismo la conversión de zona horaria.
+Como moderador, quiero recibir un recordatorio de contraseña por correo electrónico, para poder volver a usar la aplicación cuando haya olvidado mi contraseña.
+Como moderador, quiero seleccionar si el equipo estima con {0, 1/2, 1, 2, 3, 5, 8, etc.} o {0, 1, 2, 4, 8, 16, 32, etc.}, para que el equipo pueda utilizar la secuencia de Fibonacci modificada o poderes de 2.
+Como moderador, quiero invitar hasta 15 estimadores, para que podamos jugar con equipos grandes pero no inmensos.
+Como estimador, quiero unirme a un juego introduciendo mi nombre en la página para la que recibí la URL, para poder participar.
+Como un estimador, quiero ver el artículo were estimar, de modo que sé lo que Im dar una estimación para.
+Como estimador, quiero ver todos los temas que vamos a tratar de estimar este período de sesiones, de modo que tenga una idea de los tamaños de los diversos temas.
+Como participante, quiero ver inmediatamente que una estimación ha sido dada por un estimador específico, de modo que sé que ya ha dado una estimación y que were todavía está esperando.
+Como participante, quiero que se me muestren todas las estimaciones al mismo tiempo después de que todos los estimadores hayan dado su estimación, de modo que pueda estar seguro de que las estimaciones son independientes y no están influenciadas por otras estimaciones dadas en el mismo sorteo.
+Como participante, quiero poder cambiar mi estimación hasta que la última persona seleccione una tarjeta y se muestre todo, para que pueda cambiar de opinión en base a la información que escucho.
+Como participante, quiero ser capaz de ver las estimaciones previas de cada estimador para la historia que se estima, de modo que pueda ver cómo ha cambiado su opinión para que pueda hacer preguntas.
+Como participante, quiero ver quién dio qué estimaciones durante la ronda actual, de modo que sé esto cuando were discutir las estimaciones.
+Como participante, quiero ser capaz de iniciar un temporizador de cuenta atrás de dos minutos que todos los participantes pueden ver, de modo que pueda limitar el tiempo dedicado a discutir las estimaciones cuando creo que hemos hablado lo suficiente.
+Como participante, quiero que el temporizador de dos minutos se reinicie tan pronto como todos juguemos una estimación, para que esté listo para su uso en la siguiente ronda.
+Como participante, quiero desplazarme de nuevo a través de las historias y estimaciones de rondas anteriores, de modo que pueda utilizar esta información cuando estimo el elemento de la ronda actual.
+Como participante, siempre quiero tener las cartas en el mismo orden a través de múltiples sorteos, para que sea fácil comparar estimaciones.
+Como participante, quiero cambiar mi estimación mientras el sorteo no se haya completado, para que pueda cambiar de opinión.
+Como participante, quiero que se muestre una pequeña foto en miniatura cerca de donde se juegan mis cartas, para que el juego sea más personal porque veo con quién estoy estimando.
+Como desarrollador, quiero haber escrito un sitio que cumpla con los estándares XHTML y CSS, de modo que tantas personas como sea posible puedan acceder al sitio y verlo como está previsto.
+Como desarrollador, quiero tener una lista de definiciones para términos de uso común, para que todos los que trabajan en el proyecto puedan comprenderse más fácilmente.
+Como desarrollador, quiero haber creado índices de base de datos, para que las consultas se ejecuten lo más rápido posible.
+Como desarrollador, quiero tener la función de aplicación correctamente en Internet Explorer 6 y 7, Firefox 1.5 y 2, y Safari 2, para que tantas personas como sea posible puedan utilizar completamente la aplicación.
+Como desarrollador, quiero que el sitio cumpla con las directrices de accesibilidad W3C siempre que sea posible, para que las personas con problemas de accesibilidad puedan utilizar la aplicación.
+Como usuario, quiero que la aplicación responda rápidamente a mis acciones, para que no me aburre.
+Como usuario, quiero poder usar Unicode, para poder usar cualquier idioma que me guste.
+Como usuario, quiero ver URLs sensatas y predecibles, para que la aplicación se sienta lógica y transparente.
+Como usuario, quiero tener buenas páginas de error cuando algo sale mal, para que pueda confiar en el sistema y sus desarrolladores.
+Como investigador, quiero que los resultados se almacenen de una manera no identificable, de modo que pueda estudiar los datos para ver cosas como si las estimaciones convergen alrededor de la primera opinión dada por el "estimador A" por ejemplo.
+Como Mike, quiero ser capaz de ver algunas métricas sobre el uso del juego, para que pueda ver cuánto se está usando.

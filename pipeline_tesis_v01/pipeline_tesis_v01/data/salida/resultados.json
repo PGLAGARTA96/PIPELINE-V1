@@ -1,0 +1,367 @@
+{
+  "resultados": [
+    {
+      "historia_original": "Como usuario quiero registrar pedidos. El sistema debe validar los datos.",
+      "preprocesamiento": {
+        "oraciones": [
+          {
+            "texto": "Como usuario quiero registrar pedidos.",
+            "tokens": [
+              "Como",
+              "usuario",
+              "quiero",
+              "registrar",
+              "pedidos",
+              "."
+            ]
+          },
+          {
+            "texto": "El sistema debe validar los datos.",
+            "tokens": [
+              "El",
+              "sistema",
+              "debe",
+              "validar",
+              "los",
+              "datos",
+              "."
+            ]
+          }
+        ]
+      },
+      "analisis_linguistico": {
+        "oraciones": [
+          {
+            "texto": "Como usuario quiero registrar pedidos.",
+            "tokens": [
+              {
+                "texto": "Como",
+                "lema": "como",
+                "pos": "SCONJ",
+                "dependencia": "mark",
+                "depende_de": "usuario"
+              },
+              {
+                "texto": "usuario",
+                "lema": "usuario",
+                "pos": "NOUN",
+                "dependencia": "obl",
+                "depende_de": "quiero"
+              },
+              {
+                "texto": "quiero",
+                "lema": "querer",
+                "pos": "VERB",
+                "dependencia": "ROOT",
+                "depende_de": "quiero"
+              },
+              {
+                "texto": "registrar",
+                "lema": "registrar",
+                "pos": "VERB",
+                "dependencia": "xcomp",
+                "depende_de": "quiero"
+              },
+              {
+                "texto": "pedidos",
+                "lema": "pedido",
+                "pos": "ADJ",
+                "dependencia": "obj",
+                "depende_de": "registrar"
+              },
+              {
+                "texto": ".",
+                "lema": ".",
+                "pos": "PUNCT",
+                "dependencia": "punct",
+                "depende_de": "quiero"
+              }
+            ]
+          },
+          {
+            "texto": "El sistema debe validar los datos.",
+            "tokens": [
+              {
+                "texto": "El",
+                "lema": "el",
+                "pos": "DET",
+                "dependencia": "det",
+                "depende_de": "sistema"
+              },
+              {
+                "texto": "sistema",
+                "lema": "sistema",
+                "pos": "NOUN",
+                "dependencia": "nsubj",
+                "depende_de": "validar"
+              },
+              {
+                "texto": "debe",
+                "lema": "deber",
+                "pos": "AUX",
+                "dependencia": "aux",
+                "depende_de": "validar"
+              },
+              {
+                "texto": "validar",
+                "lema": "validar",
+                "pos": "VERB",
+                "dependencia": "ROOT",
+                "depende_de": "validar"
+              },
+              {
+                "texto": "los",
+                "lema": "el",
+                "pos": "DET",
+                "dependencia": "det",
+                "depende_de": "datos"
+              },
+              {
+                "texto": "datos",
+                "lema": "dato",
+                "pos": "NOUN",
+                "dependencia": "obj",
+                "depende_de": "validar"
+              },
+              {
+                "texto": ".",
+                "lema": ".",
+                "pos": "PUNCT",
+                "dependencia": "punct",
+                "depende_de": "validar"
+              }
+            ]
+          }
+        ]
+      },
+      "componentes": {
+        "rol": "usuario",
+        "verbo_intencion": "querer",
+        "accion": "registrar",
+        "objeto": "pedidos",
+        "beneficio": null
+      },
+      "conformidad": {
+        "es_conforme": false,
+        "plantilla": null,
+        "plantilla_mas_cercana": "P1",
+        "reglas": {
+          "rol": true,
+          "accion": true,
+          "objeto": true,
+          "beneficio": false,
+          "verbo_intencion": true,
+          "estructura": true
+        },
+        "incumplimientos": [
+          "Beneficio no identificado"
+        ]
+      },
+      "origen": {
+        "archivo": "ejemplo.txt",
+        "linea": 1
+      }
+    },
+    {
+      "historia_original": "Como diseñador de interfaz quiero actualizar la página de recursos para que coincida con el nuevo diseño.",
+      "preprocesamiento": {
+        "oraciones": [
+          {
+            "texto": "Como diseñador de interfaz quiero actualizar la página de recursos para que coincida con el nuevo diseño.",
+            "tokens": [
+              "Como",
+              "diseñador",
+              "de",
+              "interfaz",
+              "quiero",
+              "actualizar",
+              "la",
+              "página",
+              "de",
+              "recursos",
+              "para",
+              "que",
+              "coincida",
+              "con",
+              "el",
+              "nuevo",
+              "diseño",
+              "."
+            ]
+          }
+        ]
+      },
+      "analisis_linguistico": {
+        "oraciones": [
+          {
+            "texto": "Como diseñador de interfaz quiero actualizar la página de recursos para que coincida con el nuevo diseño.",
+            "tokens": [
+              {
+                "texto": "Como",
+                "lema": "como",
+                "pos": "SCONJ",
+                "dependencia": "mark",
+                "depende_de": "diseñador"
+              },
+              {
+                "texto": "diseñador",
+                "lema": "diseñador",
+                "pos": "NOUN",
+                "dependencia": "obl",
+                "depende_de": "quiero"
+              },
+              {
+                "texto": "de",
+                "lema": "de",
+                "pos": "ADP",
+                "dependencia": "case",
+                "depende_de": "interfaz"
+              },
+              {
+                "texto": "interfaz",
+                "lema": "interfaz",
+                "pos": "NOUN",
+                "dependencia": "nmod",
+                "depende_de": "diseñador"
+              },
+              {
+                "texto": "quiero",
+                "lema": "querer",
+                "pos": "VERB",
+                "dependencia": "ROOT",
+                "depende_de": "quiero"
+              },
+              {
+                "texto": "actualizar",
+                "lema": "actualizar",
+                "pos": "VERB",
+                "dependencia": "xcomp",
+                "depende_de": "quiero"
+              },
+              {
+                "texto": "la",
+                "lema": "el",
+                "pos": "DET",
+                "dependencia": "det",
+                "depende_de": "página"
+              },
+              {
+                "texto": "página",
+                "lema": "página",
+                "pos": "NOUN",
+                "dependencia": "obj",
+                "depende_de": "actualizar"
+              },
+              {
+                "texto": "de",
+                "lema": "de",
+                "pos": "ADP",
+                "dependencia": "case",
+                "depende_de": "recursos"
+              },
+              {
+                "texto": "recursos",
+                "lema": "recurso",
+                "pos": "NOUN",
+                "dependencia": "nmod",
+                "depende_de": "página"
+              },
+              {
+                "texto": "para",
+                "lema": "para",
+                "pos": "ADP",
+                "dependencia": "mark",
+                "depende_de": "coincida"
+              },
+              {
+                "texto": "que",
+                "lema": "que",
+                "pos": "SCONJ",
+                "dependencia": "mark",
+                "depende_de": "coincida"
+              },
+              {
+                "texto": "coincida",
+                "lema": "coincido",
+                "pos": "ADJ",
+                "dependencia": "advcl",
+                "depende_de": "actualizar"
+              },
+              {
+                "texto": "con",
+                "lema": "con",
+                "pos": "ADP",
+                "dependencia": "case",
+                "depende_de": "diseño"
+              },
+              {
+                "texto": "el",
+                "lema": "el",
+                "pos": "DET",
+                "dependencia": "det",
+                "depende_de": "diseño"
+              },
+              {
+                "texto": "nuevo",
+                "lema": "nuevo",
+                "pos": "ADJ",
+                "dependencia": "amod",
+                "depende_de": "diseño"
+              },
+              {
+                "texto": "diseño",
+                "lema": "diseño",
+                "pos": "NOUN",
+                "dependencia": "obl",
+                "depende_de": "coincida"
+              },
+              {
+                "texto": ".",
+                "lema": ".",
+                "pos": "PUNCT",
+                "dependencia": "punct",
+                "depende_de": "quiero"
+              }
+            ]
+          }
+        ]
+      },
+      "componentes": {
+        "rol": "diseñador de interfaz",
+        "verbo_intencion": "querer",
+        "accion": "actualizar",
+        "objeto": "la página de recursos",
+        "beneficio": "coincida con el nuevo diseño"
+      },
+      "conformidad": {
+        "es_conforme": true,
+        "plantilla": "P1",
+        "reglas": {
+          "rol": true,
+          "accion": true,
+          "objeto": true,
+          "beneficio": true,
+          "verbo_intencion": true,
+          "estructura": true
+        },
+        "incumplimientos": []
+      },
+      "origen": {
+        "archivo": "ejemplo.txt",
+        "linea": 2
+      }
+    }
+  ],
+  "errores": [],
+  "estadisticas": {
+    "historias_procesadas": 2,
+    "rol_no_identificado": 0,
+    "verbo_intencion_no_identificado": 0,
+    "accion_no_identificada": 0,
+    "objeto_no_identificado": 0,
+    "beneficio_no_identificado": 1,
+    "historias_conformes": 1,
+    "historias_no_conformes": 1,
+    "errores_procesamiento": 0
+  }
+}

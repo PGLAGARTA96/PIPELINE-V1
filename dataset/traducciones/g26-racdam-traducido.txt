@@ -1,0 +1,100 @@
+Como archivista, quiero aplicar una licencia o declaración de derechos, para saber lo que puedo hacer con un archivo.
+Como archivista, quiero marcar los archivos individuales como restringidos, para que no se compartan por error.
+Como archivista, quiero marcar grupos de archivos como restringidos, para que no se compartan por error.
+Como archivista, quiero restringir un archivo desde la vista.
+Como archivista, quiero restringir un grupo de archivos desde la vista.
+Como archivista, quiero establecer una fecha en la que las restricciones se eliminarán de un archivo, para que no tenga que actualizar esto a mano.
+Como archivista, quiero añadir información de fecha final de restricción a los archivos, para que pueda compartir archivos cuando estén abiertos.
+Como archivista, quiero añadir restricciones detalladas a grupos de archivos, para saber si y cómo se pueden compartir.
+Como archivista, quiero restringir el acceso a algunos archivos por dirección IP, para que pueda dar acceso a la sala de lectura sólo a ciertos archivos digitales.
+Como archivista, quiero restringir el acceso a ciertos archivos por parte del usuario, para que pueda permitir a los representantes de los donantes ver ciertos archivos.
+Como archivista, quiero saber si una foto ya ha sido escaneada, para poder licenciarla a un investigador.
+Como archivista, quiero seleccionar estados y declaraciones de derechos existentes, de modo que pueda crear fácilmente declaraciones de derechos uniformes.
+Como archivista, quiero editar información en archivos digitales por un período de tiempo, de modo que pueda proporcionar acceso a porciones no sensibles de un registro.
+Como archivista, quiero tener un formulario en línea para la concesión de licencias de material de archivo, para que el proceso sea más transparente y algunos de los ida y vuelta puedan ser eliminados.
+Como archivista, quiero editar por lotes metadatos sobre archivos.
+Como archivista, quiero subir un solo archivo.
+Como archivista, quiero subir grupos de archivos, para que pueda ahorrar tiempo.
+Como archivista, quiero crear automáticamente copias de acceso de archivos, para que no tenga que hacerlo manualmente.
+Como archivista, quiero generar automáticamente metadatos técnicos, de modo que sepa el tamaño del archivo.
+Como archivista asistente, quiero subir y etiquetar los documentos de trabajo generados por el personal, para que el personal y los investigadores puedan acceder fácilmente a ellos.
+Como archivista, quiero distinguir entre objetos digitales digitalizados a estándares de conservación y aquellos creados con fines de acceso únicamente, de modo que sepa si debo aplicar acciones de preservación.
+Como archivista, quiero vincular versiones electrónicas de publicaciones de investigadores a citas, para poder compartirlas con otros investigadores.
+Como archivista, quiero subir escaneos de imágenes creadas al mismo tiempo que responde a solicitudes de investigación, para que puedan ser utilizados de nuevo para otras solicitudes de investigación.
+Como archivista, quiero crear escaneos de calidad de imágenes y documentos, para que puedan ser reutilizados.
+Como archivista, quiero crear automáticamente derivados de acceso de objetos digitales, para que no tenga que hacerlo manualmente.
+Como archivista, quiero asignar automáticamente identificadores únicos al material que exploro, para evitar posibles errores.
+Como archivista, quiero integrar automáticamente metadatos en los encabezados de los archivos, para evitar tareas repetitivas y fácilmente olvidadas.
+Como archivista, quiero rotar imágenes, para poder orientarlas correctamente.
+Como archivista, quiero aplicar operaciones automáticas de contraste y nivel a un archivo escaneado, para poder eliminar el trabajo innecesario.
+Como archivista, quiero realizar el contraste, el nivel y otras manipulaciones manualmente, para poder mejorar los resultados de las herramientas automatizadas.
+En mi calidad de representante de los donantes, quiero proporcionar valores devengados incrementales a las colecciones nuevas y existentes, de modo que el material pueda transferirse de manera continua.
+Como archivista, quiero gestionar escaneos de material de archivo creado para visitas educativas, para que los encuentren y se refieran a ellos para otra visita.
+Como archivista, quiero gestionar la documentación del préstamo, incluyendo fotos de preservación, formularios y correspondencia, para poder encontrarla fácilmente más tarde.
+Como investigador, quiero generar datos de citas estructuradas, para poder citar un archivo en una publicación.
+Como investigador, quiero compartir un enlace a un archivo en las redes sociales, de modo que pueda mostrar a otras personas una cosa interesante que encontré.
+Como investigador, quiero entender el estado de copyright de la imagen, para saber si puedo usarla.
+Como investigador quiero información clara de citas en cada documento, para que pueda citar con precisión en una publicación.
+Como investigador, quiero compartir los informes que he escrito, de modo que esté disponible para el personal y los investigadores.
+Como investigador, quiero descargar un archivo, para que pueda usarlo para la investigación sin tener que venir a la sala de lectura.
+Como investigador, quiero descargar informes, para poder usarlos de inmediato y en el futuro en charlas y artículos.
+Como investigador, quiero localizar fotografías y documentos que pueda compartir en las redes sociales.
+Como investigador, quiero solicitar versiones analógicas de objetos digitales, para poder verlas en la sala de lectura.
+Como investigador, quiero pedir copias de fotos, para poder usarlas en una publicación.
+Como investigador, quiero recibir una notificación si algo que pido en la sala de lectura o para la duplicación ya está digitalizada, para que no tenga que poner en esa solicitud.
+Como archivista, quiero poner a disposición de investigadores y donantes información sobre los derechos, para que sepan lo que pueden hacer con las imágenes.
+Como archivista, quiero asegurarme de que los correos electrónicos enviados sobre objetos específicos contengan información precisa de citas, de modo que pueda confirmar a qué objeto se está refiriendo.
+Como investigador, quiero transmitir archivos de audio y vídeo en mi navegador web.
+Como investigador, quiero exportar datos descriptivos en un formato común, para poder usar herramientas de extracción de texto en él.
+Como archivista, quiero rastrear el uso de una foto, para saber si la he enviado a un investigador antes.
+Como archivista, quiero ver lo que un usuario en particular ha descargado, para que pueda rastrear el uso de los activos.
+Como archivista, quiero proporcionar acceso a copias digitales de material no procesado, para que los donantes puedan acceder a las cosas que nos han dado.
+Como archivista, quiero hacer todo el material de archivo posible disponible para su uso, de modo que pueda cumplir la misión del CCR.
+Como archivista, quiero usar contenido de archivo en el sitio web de RAC, para poder integrar nuestras colecciones en nuestra presencia web.
+Como representante de los donantes, quiero acceder a la información descriptiva sobre las imágenes escaneadas para las necesidades de mis instituciones.
+Como representante de los donantes, quiero ver las imágenes que han sido escaneadas de mi colección, de modo que pueda utilizarlas en las exposiciones, informes, etc. de mis instituciones.
+Como investigador, quiero buscar todos los archivos por palabra clave.
+Como investigador, quiero buscar por palabra clave, para poder aprender lo que ya existe digitalmente y evitar colocar peticiones adicionales de duplicación.
+Como investigador, quiero ver material común a través de las colecciones, para poder preparar un análisis exhaustivo.
+Como investigador, quiero hojear los archivos de una colección.
+Como archivista, quiero navegar por los archivos de una colección.
+Como archivista, quiero buscar todos los archivos por palabra clave.
+Como archivista, quiero subir inventarios, para que los representantes de nuestros donantes tengan un tiempo más fácil para solicitar su material.
+Como archivista, quiero buscar por etiqueta, para que sea más fácil encontrar fotografías particulares.
+Como archivista, quiero acceder a los archivos digitales de la unidad X, para poder usarlos.
+Como archivista asistente, quiero acceder fácilmente a formularios interdepartamentales.
+Como archivista, quiero tener versiones electrónicas de los archivos de colección disponibles para uso del personal, para que aumente la accesibilidad y no pierda los archivos originales.
+Como investigador, quiero ser capaz de buscar a través de las imágenes de la colección de fotos, para que pueda preparar presentaciones.
+Como investigador, quiero buscar usando datos estructurados, de modo que pueda encontrar todo lo relevante para mi investigación a través de colecciones.
+Como investigador, quiero acceder a documentos de trabajo etiquetados, para que mi proceso de investigación esté mejor informado.
+Como investigador, quiero acceder a materiales educativos de extensión, para poder establecer conexiones con instituciones.
+Como investigador, quiero tener información precisa sobre citas cruzadas, para poder encontrar materiales de nuevo.
+Como investigador, quiero acceder a materiales de archivo digitalizados sin mediación, para que pueda decidir qué, quiero mirar.
+Como archivista, quiero distinguir entre imágenes escaneadas en color o en blanco y negro, para saber si estas imágenes cumplen o no con los requisitos de publicación.
+Como investigador, quiero hacer una pregunta sobre un archivo específico, para que pueda encontrar más información.
+Como investigador, quiero buscar texto OCRed en todos los documentos textuales digitalizados disponibles, para que pueda localizar de manera más eficiente los documentos digitalizados relevantes para mi investigación.
+Como investigador, quiero saber la fecha en la que algo fue digitalizado, para saber si ha sido digitalizado desde la última vez que lo miré.
+Como investigador, quiero buscar palabras clave en todos los diarios escaneados de un oficial de programa de RF, en lugar de tener que buscar cada segmento de diario escaneado por separado, para que pueda localizar de manera más eficiente las entradas de diario relevantes para mi investigación.
+Como archivista, quiero acceder a inventarios de colecciones no procesadas, para poder proporcionar servicios de referencia a los donantes.
+Como investigador, quiero ver miniaturas de fotos, para poder hacer una selección de cuál quiero licenciar.
+Como investigador, quiero saber cuándo sólo una parte de una carpeta ha sido digitalizada, para saber si estoy viendo todo o sólo una porción.
+Como representante de un donante, quiero ver miniaturas de imágenes, de modo que pueda seleccionar cuál quiero.
+Como investigador, quiero ver clips de películas, para poder ver extractos de películas.
+Como archivista, quiero buscar imágenes por fotógrafo.
+Como archivista, quiero buscar imágenes de personas representadas en ellas.
+Como archivista, quiero buscar imágenes por lugar donde la foto fue tomada.
+Como archivista, quiero buscar imágenes por derechos.
+Como archivista, quiero buscar tarjetas de índice y otras ayudas no públicas para encontrar, de modo que pueda proporcionar una mejor asistencia para la investigación.
+Como archivista, quiero ver los archivos de colección, de modo que pueda obtener información de fondo para procesar una colección.
+Como archivista, quiero ver las ubicaciones físicas de material no arquitectónico, para poder proporcionar servicios de investigación a los donantes.
+Como archivista, quiero encontrar archivos que no puedan ser puestos a disposición del público, de modo que pueda acceder fácilmente a todo lo que ha sido digitalizado.
+Como archivista, quiero acceder a los metadatos y las representaciones visuales de las tarjetas de índice, de modo que pueda utilizar esa información para ayudar a los investigadores.
+Como archivista, quiero buscar tipos de materiales individuales.
+Como archivista, quiero buscar imágenes subiendo una imagen, de modo que pueda encontrar imágenes cuando no tenga metadatos.
+Como administrador, quiero crear grupos de usuarios, para poder controlar los permisos de usuario.
+Como administrador, quiero crear roles de usuario, para que pueda agrupar a los usuarios por rol.
+Como administrador, quiero asignar personal de RAC a diferentes grupos de usuarios, para que pueda controlar el acceso de lectura/escritura.
+Como administrador, quiero asignar derechos a grupos de usuarios o roles, para poder controlar lo que los usuarios pueden y no pueden hacer.
+Como administrador, quiero permitir a los usuarios iniciar sesión usando credenciales de Active Directory, para que no tenga que administrar otro conjunto de nombres de usuario y contraseñas.
+Como administrador, quiero que los investigadores restablezcan sus propias contraseñas, para que no tenga que enviar contraseñas en texto claro.
+Como administrador, quiero limitar quién puede ver ciertos campos de metadatos, de modo que pueda mostrar u ocultar cosas de la pantalla basadas en grupos de usuarios.

@@ -1,0 +1,418 @@
+{
+    "resumen_global": {
+        "archivos": 22,
+        "historias": 1680,
+        "conformes": 853,
+        "no_conformes": 827,
+        "sin_rol": 65,
+        "sin_verbo_intencion": 5,
+        "sin_accion": 5,
+        "sin_objeto": 20,
+        "sin_beneficio": 774,
+        "errores": 0,
+        "plantillas": {
+            "P1": 852,
+            "P2": 0,
+            "P3": 1,
+            "P4": 0
+        }
+    },
+    "detalle_archivos": [
+        {
+            "archivo": "g02-federalspending-traducido.txt",
+            "historias": 98,
+            "conformes": 38,
+            "no_conformes": 60,
+            "sin_rol": 4,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 1,
+            "sin_beneficio": 59,
+            "errores": 0,
+            "plantillas": {
+                "P1": 38,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g03-loudoun-traducido.txt",
+            "historias": 58,
+            "conformes": 36,
+            "no_conformes": 22,
+            "sin_rol": 0,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 22,
+            "errores": 0,
+            "plantillas": {
+                "P1": 36,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g04-recycling-traducido.txt",
+            "historias": 51,
+            "conformes": 38,
+            "no_conformes": 13,
+            "sin_rol": 2,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 11,
+            "errores": 0,
+            "plantillas": {
+                "P1": 38,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g05-openspending-traducido.txt",
+            "historias": 53,
+            "conformes": 32,
+            "no_conformes": 21,
+            "sin_rol": 0,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 21,
+            "errores": 0,
+            "plantillas": {
+                "P1": 32,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g08-frictionless-traducido.txt",
+            "historias": 66,
+            "conformes": 42,
+            "no_conformes": 24,
+            "sin_rol": 6,
+            "sin_verbo_intencion": 1,
+            "sin_accion": 1,
+            "sin_objeto": 1,
+            "sin_beneficio": 17,
+            "errores": 0,
+            "plantillas": {
+                "P1": 41,
+                "P2": 0,
+                "P3": 1,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g10-scrumalliance-traducido.txt",
+            "historias": 97,
+            "conformes": 69,
+            "no_conformes": 28,
+            "sin_rol": 8,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 20,
+            "errores": 0,
+            "plantillas": {
+                "P1": 69,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g11-nsf-traducido.txt",
+            "historias": 73,
+            "conformes": 52,
+            "no_conformes": 21,
+            "sin_rol": 1,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 3,
+            "sin_beneficio": 18,
+            "errores": 0,
+            "plantillas": {
+                "P1": 52,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g12-camperplus-traducido.txt",
+            "historias": 55,
+            "conformes": 35,
+            "no_conformes": 20,
+            "sin_rol": 0,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 20,
+            "errores": 0,
+            "plantillas": {
+                "P1": 35,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g13-planningpoker-traducido.txt",
+            "historias": 53,
+            "conformes": 43,
+            "no_conformes": 10,
+            "sin_rol": 2,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 9,
+            "errores": 0,
+            "plantillas": {
+                "P1": 43,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g14-datahub-traducido.txt",
+            "historias": 67,
+            "conformes": 41,
+            "no_conformes": 26,
+            "sin_rol": 12,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 16,
+            "errores": 0,
+            "plantillas": {
+                "P1": 41,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g16-mis-traducido.txt",
+            "historias": 68,
+            "conformes": 22,
+            "no_conformes": 46,
+            "sin_rol": 2,
+            "sin_verbo_intencion": 2,
+            "sin_accion": 2,
+            "sin_objeto": 2,
+            "sin_beneficio": 46,
+            "errores": 0,
+            "plantillas": {
+                "P1": 22,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g17-cask-traducido.txt",
+            "historias": 64,
+            "conformes": 14,
+            "no_conformes": 50,
+            "sin_rol": 0,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 50,
+            "errores": 0,
+            "plantillas": {
+                "P1": 14,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g18-neurohub-traducido.txt",
+            "historias": 102,
+            "conformes": 28,
+            "no_conformes": 74,
+            "sin_rol": 0,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 74,
+            "errores": 0,
+            "plantillas": {
+                "P1": 28,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g19-alfred-traducido.txt",
+            "historias": 138,
+            "conformes": 52,
+            "no_conformes": 86,
+            "sin_rol": 14,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 1,
+            "sin_beneficio": 82,
+            "errores": 0,
+            "plantillas": {
+                "P1": 52,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g21-badcamp-traducido.txt",
+            "historias": 69,
+            "conformes": 58,
+            "no_conformes": 11,
+            "sin_rol": 6,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 3,
+            "sin_beneficio": 2,
+            "errores": 0,
+            "plantillas": {
+                "P1": 58,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g22-rdadmp-traducido.txt",
+            "historias": 83,
+            "conformes": 47,
+            "no_conformes": 36,
+            "sin_rol": 0,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 3,
+            "sin_beneficio": 33,
+            "errores": 0,
+            "plantillas": {
+                "P1": 47,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g23-archivesspace-traducido.txt",
+            "historias": 57,
+            "conformes": 7,
+            "no_conformes": 50,
+            "sin_rol": 3,
+            "sin_verbo_intencion": 2,
+            "sin_accion": 2,
+            "sin_objeto": 2,
+            "sin_beneficio": 50,
+            "errores": 0,
+            "plantillas": {
+                "P1": 7,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g24-unibath-traducido.txt",
+            "historias": 53,
+            "conformes": 40,
+            "no_conformes": 13,
+            "sin_rol": 0,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 13,
+            "errores": 0,
+            "plantillas": {
+                "P1": 40,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g25-duraspace-traducido.txt",
+            "historias": 100,
+            "conformes": 14,
+            "no_conformes": 86,
+            "sin_rol": 0,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 2,
+            "sin_beneficio": 86,
+            "errores": 0,
+            "plantillas": {
+                "P1": 14,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g26-racdam-traducido.txt",
+            "historias": 100,
+            "conformes": 66,
+            "no_conformes": 34,
+            "sin_rol": 3,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 1,
+            "sin_beneficio": 31,
+            "errores": 0,
+            "plantillas": {
+                "P1": 66,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g27-culrepo-traducido.txt",
+            "historias": 115,
+            "conformes": 76,
+            "no_conformes": 39,
+            "sin_rol": 1,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 1,
+            "sin_beneficio": 37,
+            "errores": 0,
+            "plantillas": {
+                "P1": 76,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        },
+        {
+            "archivo": "g28-zooniverse-traducido.txt",
+            "historias": 60,
+            "conformes": 3,
+            "no_conformes": 57,
+            "sin_rol": 1,
+            "sin_verbo_intencion": 0,
+            "sin_accion": 0,
+            "sin_objeto": 0,
+            "sin_beneficio": 57,
+            "errores": 0,
+            "plantillas": {
+                "P1": 3,
+                "P2": 0,
+                "P3": 0,
+                "P4": 0
+            }
+        }
+    ]
+}

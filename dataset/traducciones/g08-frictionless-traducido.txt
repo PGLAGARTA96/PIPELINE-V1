@@ -1,0 +1,66 @@
+Como desarrollador, quiero obtener un paquete de datos en Nodo, para que pueda empezar a utilizar los datos para hacer análisis y visualizaciones.
+Como investigador, quiero obtener un paquete de datos en Julia en segundos, para que pueda empezar a utilizar los datos para hacer análisis y visualizaciones.
+Como editor, quiero añadir información de tipo a mis datos, para que sea más útil para otros y se pueda utilizar mejor con herramientas como programas de visualización.
+Como editor, quiero poder proporcionar una visualización de los datos en el paquete de datos, de modo que pueda proporcionar mi análisis y mostrar mi trabajo a los usuarios de los datos.
+Como investigador, quiero poder guardar nuevas visualizaciones, para poder compartirlas con otros o incluirlas en el paquete de datos.
+Como investigador Publisher, quiero saber que mis datos se ajustan a su perfil de paquete de datos, para que pueda sentir confianza en la validez y utilidad de los datos.
+Como Investigador Publisher, quiero entender las formas en que mis datos son inválidos, para que pueda saber cómo solucionarlos.
+Como investigador, quiero obtener un paquete de datos en R en segundos, para que pueda empezar a utilizar los datos para hacer análisis y visualizaciones.
+Como investigador, quiero obtener un paquete de datos en Excel en segundos, para que pueda empezar a utilizar los datos para hacer análisis y visualizaciones.
+Como investigador, quiero obtener un paquete de datos en SPSS en segundos, para que pueda empezar a utilizar los datos para hacer análisis y visualizaciones.
+Como investigador, quiero obtener un paquete de datos en STATA en segundos, para que pueda empezar a utilizar los datos para hacer análisis y visualizaciones.
+Como investigador, quiero ser capaz de traducir mi conjunto de datos EML a un paquete de datos, de modo que pueda beneficiarse de la amplia gama de herramientas disponibles para los paquetes de datos.
+Como investigador, quiero obtener un paquete de datos en LibreOffice/OpenOffice en segundos, de modo que pueda empezar a usar los datos para hacer análisis y visualizaciones.
+Como desarrollador, quiero obtener un paquete de datos en Python en segundos, para que pueda empezar a utilizar los datos para hacer análisis y visualizaciones.
+Como desarrollador, quiero un complemento de jQuery para paquetes de datos básicos, de modo que pueda utilizarlo para aplicar al control de formularios que utiliza un conjunto de datos básicos para la autocompletación.
+Como investigador, quiero obtener mi hoja de cálculo Excel en un paquete de datos, para que pueda beneficiarse de una mejor herramienta y estandarización.
+Como desarrollador, quiero hacer análisis de datos exploratorios en R y poner en funcionamiento ese análisis en Python, para que pueda utilizar la mejor herramienta para el trabajo.
+Como desarrollador, quiero obtener un paquete de datos en Clojure en segundos, para que pueda empezar a utilizar los datos en el análisis y visualización.
+Como desarrollador, quiero obtener un paquete de datos en Julia en segundos, para que pueda empezar a utilizar los datos en hacer análisis y visualizaciones.
+Como desarrollador, quiero obtener un paquete de datos en C++ en segundos, de modo que pueda empezar a usar los datos para hacer análisis y visualizaciones.
+Como experto en Machine Learning, me gustaría empaquetar conjuntos de datos ML como paquetes de datos, de modo que pueda importarlos fácilmente a mi plataforma ML, para que pueda empezar a usar los datos en el análisis.
+Como desarrollador, quiero una integración de Elasticsearch, para que pueda integrar datos empaquetados con tuberías que utilizan Elasticsearch.
+Como desarrollador, quiero una integración SPSS, de modo que pueda integrar datos empaquetados con tuberías que usen SPSS.
+Como desarrollador, quiero una integración de EPrints, de modo que pueda integrar datos empaquetados con tuberías que usen EPrints.
+Como desarrollador, quiero una integración Mongo, para que pueda integrar datos empaquetados con tuberías que usen Mongo.
+Como desarrollador, quiero una integración DAT, de modo que pueda integrar datos empaquetados con tuberías que usen DAT.
+Como editora de ResearcherGovernment, quiero añadir datos de referencia generales a mi estrecho conjunto de datos, para que mi conjunto de datos sea más útil.
+Como editora de ResearcherGovernment, quiero añadir nombres de países generales a mi conjunto de datos que sólo contiene códigos de país, para que mi conjunto de datos sea más legible.
+Como editor de ResearcherGovernment, quiero añadir datos de referencia sobre inflación a mi conjunto de datos de gasto, para que las líneas de gasto en mi conjunto de datos sean más comprensibles.
+Como editor de ResearcherGovernment, quiero mapear líneas en mi conjunto de datos usando datos geográficos en mi conjunto de datos, para que mi conjunto de datos sea más atractivo para los usuarios no técnicos.
+Como investigador, quiero ser capaz de hacer referencia a un vocabulario controlado por control remoto para mi conjunto de datos, de modo que pueda estar seguro de que la columna de mi conjunto de datos son válidos contra una sola lista de términos.
+Como desarrollador, quiero una integración DSpace, de modo que pueda integrar datos empaquetados con tuberías que usen Dspace.
+Como desarrollador, quiero integrar Feather, de modo que pueda integrar datos empaquetados con tuberías que usen Feather.
+Como desarrollador, quiero la integración HDF5, para que pueda integrar datos empaquetados con tuberías que utilizan HDF5.
+Como investigador, trabajando con datos, quiero una integración de Microsoft Power BI, para poder importar conjuntos de datos sin descargarlos localmente.
+Como investigador Publisher, quiero una integración con Zenodo, para que cuando almacene mi conjunto de datos en GitHub, no tenga que volver a escribir información descriptiva sobre mi conjunto de datos.
+Como editor, me gustaría una integración con Open Refine, para que pueda producir paquetes de datos limpios.
+Como investigador Publisher, quiero publicar paquetes de datos a CKAN, para que mis datos sean localizables, y pueda tener una API de datos.
+Como investigadorDeveloper, me gustaría la capacidad de importación/exportación de MS-SQL, de modo que pueda utilizar paquetes de datos en flujos de trabajo que involucren a MS-SQL.
+Como investigador, trabajando con datos en NetCDF, quiero la integración de NetCDF, de modo que pueda almacenar mis datos en texto plano mientras conserva sus metadatos.
+Como investigador, quiero una integración con https://data.mendeley.com/, para poder validar mis datos al ingerir el servicio.
+Como editor, me gustaría una integración con Excel, para que pueda producir paquetes de datos limpios.
+Como editor, quiero almacenar mis datos de forma rápida y fácil en línea.
+Como gestor de repositorios, quiero una herramienta que facilite a los investigadores/usuarios añadir metadatos básicos a sus datos de investigación, para que sea más localizable y, por lo tanto, útil.
+Como Investigador Publisher, quiero validar mis datos con un mínimo de clics, para que pueda sentir confianza en la validez y utilidad de los datos.
+Como editor, quiero poder comprobar que cada vez que actualizo mis datos sigue siendo bueno, para que pueda detectar errores temprano y almacenar datos confiables.
+Como DeveloperWrangler, quiero usar una herramienta de línea de comandos que me permita validar datos, de modo que pueda sentir confianza en la validez y utilidad de los datos rápidamente y en el contexto de mi flujo de trabajo de línea de comandos.
+Como desarrollador, quiero un servicio en línea que esté conectado a mi repositorio de datos que valide los datos en la actualización, de modo que pueda delegar la validación de datos a un tercero.
+Como editor del gobierno, quiero que sea fácil demostrar que nuestros datos publicados son válidos, para que pueda afirmar que estamos cumpliendo con nuestros compromisos de transparencia.
+Como Activista de Tecnología Cívica, quiero facilitar la evaluación de la calidad de los datos almacenados por el gobierno, de modo que pueda asegurarme de que el gobierno está cumpliendo con sus compromisos de transparencia.
+Como editor, quiero incrustar una vista previa interactiva de mis datos en mi sitio, para que los usuarios puedan ser alentados a que estos son los datos correctos para ellos.
+Como editor, quiero incrustar un botón de vista previa en mi sitio, para que los usuarios puedan previsualizar los datos y ser alentados a que estos son los datos correctos para ellos.
+Como editor, quiero saber cuántos usuarios han previsualizado un conjunto de datos, de modo que sé cómo el interés en un conjunto de datos se relaciona con sus números de descarga reales.
+Como desarrollador, quiero personalizar un asistente existente para mi tipo específico de datos, de modo que pueda dar a mis usuarios una gran experiencia de usuario.
+Como editor, quiero añadir metadatos útiles o añadir nuevas columnas de datos para que el conjunto de datos sea más útil.
+Como editor, quiero empaquetar pasos reproducibles para obtener un determinado estado de datos, por lo que mi metodología es transparente y puede ser reproducida por otros.
+Como desarrolladorDataWrangler, quiero almacenar mi paquete de datos en GitHub y guardarlo automáticamente en CKAN, de modo que obtenga una API de datos y mi conjunto de datos aparezca en un catálogo relevante.
+Como investigador, quiero una herramienta que pueda generar estadísticas básicas sobre un conjunto de datos, de modo que pueda obtener una vista previa rápida de los datos.
+Como DeveloperPublisher, quiero una herramienta para crear un resumen de datos incrustable a través de iframe, de modo que pueda incrustar resúmenes de datos en todos los sitios.
+Como investigador, quiero una aplicación que genere un endpoint API de reconciliación OpenRefine a partir de un paquete de datos tabulares, de modo que pueda utilizarlo para limpiar datos desordenados.
+Como investigador, quiero una aplicación que cree paquetes de datos proxy para conocer bien y fuentes de datos confiables, de modo que pueda cargar datos de alta calidad utilizando herramientas de paquete de datos.
+Como RepositorioManagerResearcher, quiero una aplicación que actúe como un servicio de emparejamiento para el empaquetado de datos, de modo que los propietarios estén emparejados con empaquetadores de datos.
+Como desarrollador, me gustaría crear un protocolo de socket web para herramientas de datos Frictionless, de modo que pueda utilizar fácilmente paquetes de datos con herramientas de análisis de datos adicionales.
+Como editor, me gustaría una herramienta para comprobar la persistencia de la disponibilidad de datos después de la publicación.
+Como editor investigador, quiero especificar la financiación que contribuyó a la creación de un conjunto de datos dado, para que las agencias de financiación puedan identificar la financiación, fuente de un conjunto de datos determinado.
+Como Investigador Publisher, quiero añadir un DOI a un conjunto de datos, para poder citarlo en documentos almacenados con los datos.

@@ -1,0 +1,2 @@
+Como usuario quiero registrar pedidos. El sistema debe validar los datos.
+Como diseñador de interfaz quiero actualizar la página de recursos para que coincida con el nuevo diseño.
